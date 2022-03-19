@@ -21,12 +21,12 @@
 favicon:
   enable: true
   icon: /images/favicon.png
-  touch_icon: /images/favicon.png
+  touch_icon: https://s2.loli.net/2022/01/23/ZxVkEM5sdLQ7phN.jpg #/images/favicon.png
 
 # 用户头像与昵称
 avatar:
-  author_photo: /images/avatar.png
-  author_nickname: Oranges
+  author_photo: https://s2.loli.net/2022/01/23/ZxVkEM5sdLQ7phN.jpg #/images/avatar.png
+  author_nickname: XwX
   path: /
 
 # Google 分析
