@@ -130,6 +130,10 @@ friends:
     nickname: Hexo
     site: https://hexo.io/
     meta:
+  -
+    nickname: zhijiao
+    site: http://blog.zhijiao-blog.com
+    meta:
 
 # 页脚信息
 footer:
@@ -142,15 +146,11 @@ footer:
     -
       name: github
       icon: github
-      path: https://github.com/zchengsite/hexo-theme-oranges
+      path: https://github.com/XwX12596/blog-oranges
     -
       name: email
       icon: envelope
-      path: 
-    -
-      name: facebook
-      icon: facebooksquare
-      path:
+      path: mailto:1259685860@qq.com
     -
       name: twitter
       icon: twitter
@@ -158,10 +158,6 @@ footer:
     -
       name: wechat
       icon: wechat
-      path:
-    -
-      name: weibo
-      icon: weibo
       path:
     -
       # rss需安装 hexo-generator-feed 插件
@@ -172,8 +168,8 @@ footer:
 
   more:
     -
-      name: Copyright © Oranges 2021
-      path: https://github.com/zchengsite/hexo-theme-oranges
+      name: 苏ICP备2022006233号
+      path: https://beian.miit.gov.cn/
     -
       name: Theme by Oranges | Powered by Hexo
       path: https://github.com/zchengsite/hexo-theme-oranges
