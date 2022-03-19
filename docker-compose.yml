@@ -1,0 +1,14 @@
+version: '3'
+services:
+  blog:
+    restart: always
+    build:
+        context: .
+        dockerfile: Dockerfile
+    image: blog:latest
+    container_name: blog-oranges
+    ports:
+      - "80:4000"
+    volumes:
+      - $HOME/.ssh:/root/.ssh
+      - .:/hexo
