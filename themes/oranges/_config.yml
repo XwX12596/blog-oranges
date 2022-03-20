@@ -73,8 +73,8 @@ comments:
   
   # waline https://waline.js.org
   waline:
-    enable: false
-    serverURL:
+    enable: true
+    serverURL: https://waline-dklij12xj-xwx12596.vercel.app
 
 # 主题页面导航栏
 navbar:
@@ -88,11 +88,11 @@ navbar:
     enable: true
     path: /archives/
     key: archives
-  -
-    name: 分类
-    enable: true
-    path: /categories/
-    key: categories
+  # -
+  #   name: 分类
+  #   enable: true
+  #   path: /categories/
+  #   key: categories
   -
     name: 标签
     enable: true
@@ -103,6 +103,11 @@ navbar:
     enable: true
     path: /friends/
     key: friends
+  -
+    name: 图库
+    enable: true
+    path: /gallery/
+    key: gallery
   -
     name: 关于
     enable: true
@@ -151,14 +156,14 @@ footer:
       name: email
       icon: envelope
       path: mailto:1259685860@qq.com
-    -
-      name: twitter
-      icon: twitter
-      path:
-    -
-      name: wechat
-      icon: wechat
-      path:
+    # -
+    #   name: twitter
+    #   icon: twitter
+    #   path:
+    # -
+    #   name: wechat
+    #   icon: wechat
+    #   path:
     -
       # rss需安装 hexo-generator-feed 插件
       # 具体参照https://github.com/hexojs/hexo-generator-feed
