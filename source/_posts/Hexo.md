@@ -48,6 +48,8 @@ hexo server
 curl -fsSL https://get.docker.com | bash -s docker --mirror Aliyun
 ```
 
+关于**docker-compose**的安装可以参考[菜鸟教程](https://www.runoob.com/docker/docker-compose.html)。
+
 或者`yay -Sy docker docker-compose`
 
 # Hexo配置
@@ -101,7 +103,7 @@ EXPOSE 4000
 CMD ["/bin/bash"]
 ```
 
-- 运行`docker build -t 'hexo'`
+- 运行`docker build -t 'hexo' .`
 
 ### blog镜像
 
