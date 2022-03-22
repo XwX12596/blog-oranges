@@ -101,13 +101,18 @@ navbar:
   -
     name: 链接
     enable: true
-    path: /friends/
-    key: friends
+    path: /friend/
+    key: friend
   -
     name: 图库
     enable: true
     path: /gallery/
     key: gallery
+  -
+    name: 音乐
+    enable: true
+    path: /music/
+    key: music
   -
     name: 关于
     enable: true
@@ -128,20 +133,29 @@ friends:
   # site: 地址
   # meta: 描述
   -
-    nickname: Zcheng
-    site: https://hexo.theme.oranges.zcheng.site/
-    meta:
-  -
     nickname: Hexo
     site: https://hexo.io/
-    meta:
+    meta: What this blog powered by.
+  -
+    nickname: Zcheng
+    site: https://hexo.theme.oranges.zcheng.site/
+    meta: This theme.
   -
     nickname: qiankanshan(🚧under construction🚧)
     site: http://101.201.39.177/
+    meta: Future Musician.
   -
     nickname: zhijiao
     site: http://blog.zhijiao-blog.com
-    meta:
+    meta: A Small Shark.
+  -
+    nickname: 泠鸢小镇
+    site: http://http://1.116.241.89/
+    meta: My Portal.
+  -
+    nickname: 冷鸟按钮
+    site: http://foryousa.icu/
+    meta: My Portal.
 
 # 页脚信息
 footer:
