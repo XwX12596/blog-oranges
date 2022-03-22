@@ -8,10 +8,9 @@ date: 2022-03-22 14:41:35
 {% aplayerlist %}
 {
     "narrow": false,                         
-    "autoplay": false,                        
+    "autoplay": true,                        
     "mode": "random",                        
-    "showlrc": 3,                            
-    "mutex": true,                           
+    "showlrc": 3,                        
     "theme": "#39c5bb",	                     
     "preload": "auto",
     "music": [
