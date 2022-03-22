@@ -83,6 +83,13 @@ date: 2022-03-22 14:41:35
             "url": "/songs/飞机场的10.30.flac",
             "lrc": "/songs/飞机场的10.30.lrc",
             "pic": "https://raw.githubusercontent.com/XwX12596/image/main/img/DT_firstAlbum.jpg"
+        }, 
+         {
+            "title": "找自己",
+            "author": "陶喆",
+            "url": "/songs/找自己.flac",
+            "lrc": "/songs/找自己.lrc",
+            "pic": "https://raw.githubusercontent.com/XwX12596/image/main/img/DT_firstAlbum.jpg"
         },
          {
             "title": "沙滩",
@@ -117,13 +124,6 @@ date: 2022-03-22 14:41:35
             "author": "陶喆",
             "url": "/songs/心乱飞.flac",
             "lrc": "/songs/心乱飞.lrc",
-            "pic": "https://raw.githubusercontent.com/XwX12596/image/main/img/DT_firstAlbum.jpg"
-        }, 
-         {
-            "title": "找自己",
-            "author": "陶喆",
-            "url": "/songs/找自己.flac",
-            "lrc": "/songs/找自己.lrc",
             "pic": "https://raw.githubusercontent.com/XwX12596/image/main/img/DT_firstAlbum.jpg"
         }
     ]
