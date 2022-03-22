@@ -20,6 +20,20 @@ date: 2022-03-22 14:41:35
             "lrc": "https://raw.githubusercontent.com/XwX12596/image/main/img/爱在西元前.lrc",
             "pic": "https://s2.loli.net/2022/03/22/zs3Gbj8tvP2moCp.png"
         },
+         {
+            "title": "夜的第七章",
+            "author": "周杰伦",
+            "url": "https://raw.githubusercontent.com/XwX12596/image/main/img/夜的第七章.flac",
+            "lrc": "https://raw.githubusercontent.com/XwX12596/image/main/img/夜的第七章.lrc",
+            "pic": "https://s2.loli.net/2022/03/22/zs3Gbj8tvP2moCp.png"
+        },
+         {
+            "title": "园游会",
+            "author": "周杰伦",
+            "url": "https://raw.githubusercontent.com/XwX12596/image/main/img/园游会.flac",
+            "lrc": "https://raw.githubusercontent.com/XwX12596/image/main/img/园游会.lrc",
+            "pic": "https://s2.loli.net/2022/03/22/zs3Gbj8tvP2moCp.png"
+        },
         {    
             "title": "忍者",
             "author": "周杰伦",
@@ -32,13 +46,6 @@ date: 2022-03-22 14:41:35
             "author": "周杰伦",
             "url": "https://raw.githubusercontent.com/XwX12596/image/main/img/以父之名.flac",
             "lrc": "https://raw.githubusercontent.com/XwX12596/image/main/img/以父之名.lrc",
-            "pic": "https://s2.loli.net/2022/03/22/zs3Gbj8tvP2moCp.png"
-        },
-         {
-            "title": "稻香",
-            "author": "周杰伦",
-            "url": "https://raw.githubusercontent.com/XwX12596/image/main/img/稻香.flac",
-            "lrc": "https://raw.githubusercontent.com/XwX12596/image/main/img/稻香.lrc",
             "pic": "https://s2.loli.net/2022/03/22/zs3Gbj8tvP2moCp.png"
         },
          {
@@ -56,27 +63,6 @@ date: 2022-03-22 14:41:35
             "pic": "https://s2.loli.net/2022/03/22/zs3Gbj8tvP2moCp.png"
         },
          {
-            "title": "止战之殇",
-            "author": "周杰伦",
-            "url": "https://raw.githubusercontent.com/XwX12596/image/main/img/止战之殇.flac",
-            "lrc": "https://raw.githubusercontent.com/XwX12596/image/main/img/止战之殇.lrc",
-            "pic": "https://s2.loli.net/2022/03/22/zs3Gbj8tvP2moCp.png"
-        },
-         {
-            "title": "可爱女人",
-            "author": "周杰伦",
-            "url": "https://raw.githubusercontent.com/XwX12596/image/main/img/可爱女人.flac",
-            "lrc": "https://raw.githubusercontent.com/XwX12596/image/main/img/可爱女人.lrc",
-            "pic": "https://s2.loli.net/2022/03/22/zs3Gbj8tvP2moCp.png"
-        },
-         {
-            "title": "外婆",
-            "author": "周杰伦",
-            "url": "https://raw.githubusercontent.com/XwX12596/image/main/img/外婆.flac",
-            "lrc": "https://raw.githubusercontent.com/XwX12596/image/main/img/外婆.lrc",
-            "pic": "https://s2.loli.net/2022/03/22/zs3Gbj8tvP2moCp.png"
-        },
-         {
             "title": "反方向的钟",
             "author": "周杰伦",
             "url": "https://raw.githubusercontent.com/XwX12596/image/main/img/反方向的钟.flac",
@@ -91,32 +77,53 @@ date: 2022-03-22 14:41:35
             "pic": "https://s2.loli.net/2022/03/22/zs3Gbj8tvP2moCp.png"
         },
          {
-            "title": "最后的战役",
-            "author": "周杰伦",
-            "url": "https://raw.githubusercontent.com/XwX12596/image/main/img/最后的战役.flac",
-            "lrc": "https://raw.githubusercontent.com/XwX12596/image/main/img/最后的战役.lrc",
-            "pic": "https://s2.loli.net/2022/03/22/zs3Gbj8tvP2moCp.png"
+            "title": "飞机场的10.30",
+            "author": "陶喆",
+            "url": "https://raw.githubusercontent.com/XwX12596/image/main/music/飞机场的10.30.flac",
+            "lrc": "https://raw.githubusercontent.com/XwX12596/image/main/music/飞机场的10.30.lrc",
+            "pic": "https://raw.githubusercontent.com/XwX12596/image/main/img/DT_firstAlbum.jpg"
         },
          {
-            "title": "夜的第七章",
-            "author": "周杰伦",
-            "url": "https://raw.githubusercontent.com/XwX12596/image/main/img/夜的第七章.flac",
-            "lrc": "https://raw.githubusercontent.com/XwX12596/image/main/img/夜的第七章.lrc",
-            "pic": "https://s2.loli.net/2022/03/22/zs3Gbj8tvP2moCp.png"
+            "title": "沙滩",
+            "author": "陶喆",
+            "url": "https://raw.githubusercontent.com/XwX12596/image/main/music/沙滩.flac",
+            "lrc": "https://raw.githubusercontent.com/XwX12596/image/main/music/沙滩.lrc",
+            "pic": "https://raw.githubusercontent.com/XwX12596/image/main/img/DT_firstAlbum.jpg"
         },
          {
-            "title": "园游会",
-            "author": "周杰伦",
-            "url": "https://raw.githubusercontent.com/XwX12596/image/main/img/园游会.flac",
-            "lrc": "https://raw.githubusercontent.com/XwX12596/image/main/img/园游会.lrc",
-            "pic": "https://s2.loli.net/2022/03/22/zs3Gbj8tvP2moCp.png"
+            "title": "普通朋友",
+            "author": "陶喆",
+            "url": "https://raw.githubusercontent.com/XwX12596/image/main/music/普通朋友.flac",
+            "lrc": "https://raw.githubusercontent.com/XwX12596/image/main/music/普通朋友.lrc",
+            "pic": "https://raw.githubusercontent.com/XwX12596/image/main/img/DT_firstAlbum.jpg"
         },
          {
-            "title": "一路向北",
-            "author": "周杰伦",
-            "url": "https://raw.githubusercontent.com/XwX12596/image/main/img/一路向北.flac",
-            "lrc": "https://raw.githubusercontent.com/XwX12596/image/main/img/一路向北.lrc",
-            "pic": "https://s2.loli.net/2022/03/22/zs3Gbj8tvP2moCp.png"
+            "title": "十七岁",
+            "author": "陶喆",
+            "url": "https://raw.githubusercontent.com/XwX12596/image/main/music/十七岁.flac",
+            "lrc": "https://raw.githubusercontent.com/XwX12596/image/main/music/十七岁.lrc",
+            "pic": "https://raw.githubusercontent.com/XwX12596/image/main/img/DT_firstAlbum.jpg"
+        },
+         {
+            "title": "小镇姑娘",
+            "author": "陶喆",
+            "url": "https://raw.githubusercontent.com/XwX12596/image/main/music/小镇姑娘.flac",
+            "lrc": "https://raw.githubusercontent.com/XwX12596/image/main/music/小镇姑娘.lrc",
+            "pic": "https://raw.githubusercontent.com/XwX12596/image/main/img/DT_firstAlbum.jpg"
+        },
+         {
+            "title": "心乱飞",
+            "author": "陶喆",
+            "url": "https://raw.githubusercontent.com/XwX12596/image/main/music/心乱飞.flac",
+            "lrc": "https://raw.githubusercontent.com/XwX12596/image/main/music/心乱飞.lrc",
+            "pic": "https://raw.githubusercontent.com/XwX12596/image/main/img/DT_firstAlbum.jpg"
+        }, 
+         {
+            "title": "找自己",
+            "author": "陶喆",
+            "url": "https://raw.githubusercontent.com/XwX12596/image/main/music/找自己.flac",
+            "lrc": "https://raw.githubusercontent.com/XwX12596/image/main/music/找自己.lrc",
+            "pic": "https://raw.githubusercontent.com/XwX12596/image/main/img/DT_firstAlbum.jpg"
         }
     ]
 }
