@@ -80,49 +80,49 @@ date: 2022-03-22 14:41:35
             "author": "陶喆",
             "url": "/songs/飞机场的10.30.flac",
             "lrc": "/songs/飞机场的10.30.lrc",
-            "pic": "https://raw.githubusercontent.com/XwX12596/image/main/img/DT_firstAlbum.jpg"
+            "pic": "https://s2.loli.net/2022/03/23/IbS8w1Jt2XFCZie.png"
         }, 
          {
             "title": "找自己",
             "author": "陶喆",
             "url": "/songs/找自己.flac",
             "lrc": "/songs/找自己.lrc",
-            "pic": "https://raw.githubusercontent.com/XwX12596/image/main/img/DT_firstAlbum.jpg"
+            "pic": "https://s2.loli.net/2022/03/23/IbS8w1Jt2XFCZie.png"
         },
          {
             "title": "沙滩",
             "author": "陶喆",
             "url": "/songs/沙滩.flac",
             "lrc": "/songs/沙滩.lrc",
-            "pic": "https://raw.githubusercontent.com/XwX12596/image/main/img/DT_firstAlbum.jpg"
+            "pic": "https://s2.loli.net/2022/03/23/IbS8w1Jt2XFCZie.png"
         },
          {
             "title": "普通朋友",
             "author": "陶喆",
             "url": "/songs/普通朋友.flac",
             "lrc": "/songs/普通朋友.lrc",
-            "pic": "https://raw.githubusercontent.com/XwX12596/image/main/img/DT_firstAlbum.jpg"
+            "pic": "https://s2.loli.net/2022/03/23/IbS8w1Jt2XFCZie.png"
         },
          {
             "title": "十七岁",
             "author": "陶喆",
             "url": "/songs/十七岁.flac",
             "lrc": "/songs/十七岁.lrc",
-            "pic": "https://raw.githubusercontent.com/XwX12596/image/main/img/DT_firstAlbum.jpg"
+            "pic": "https://s2.loli.net/2022/03/23/IbS8w1Jt2XFCZie.png"
         },
          {
             "title": "小镇姑娘",
             "author": "陶喆",
             "url": "/songs/小镇姑娘.flac",
             "lrc": "/songs/小镇姑娘.lrc",
-            "pic": "https://raw.githubusercontent.com/XwX12596/image/main/img/DT_firstAlbum.jpg"
+            "pic": "https://s2.loli.net/2022/03/23/IbS8w1Jt2XFCZie.png"
         },
          {
             "title": "心乱飞",
             "author": "陶喆",
             "url": "/songs/心乱飞.flac",
             "lrc": "/songs/心乱飞.lrc",
-            "pic": "https://raw.githubusercontent.com/XwX12596/image/main/img/DT_firstAlbum.jpg"
+            "pic": "https://s2.loli.net/2022/03/23/IbS8w1Jt2XFCZie.png"
         }
     ]
 }
