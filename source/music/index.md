@@ -3,12 +3,10 @@ title: music
 date: 2022-03-22 14:41:35
 ---
 
-> 只是一些我喜欢的歌
-
 {% aplayerlist %}
 {
     "narrow": false,                         
-    "autoplay": true,                        
+    "autoplay": false,                        
     "mode": "random",                        
     "showlrc": 3,                        
     "theme": "#39c5bb",	                     
