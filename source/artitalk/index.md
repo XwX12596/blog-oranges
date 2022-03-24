@@ -9,7 +9,10 @@ type: about
     <script>
     new Artitalk({
         appId: 'YBH7dy8YlNz0JsvUT2vw1rVn-MdYXbMMI',
-        appKey: 'Q7qAfgOW7OkXlWMWf62B4lb2'
+        appKey: 'Q7qAfgOW7OkXlWMWf62B4lb2',
+        color1: '#eeeeee',
+        color2: '#eeeeee',
+        color3: '#000000'
     })
     </script>
 </body>
