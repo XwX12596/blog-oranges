@@ -85,7 +85,7 @@ navbar:
     key: home
   -
     name: 归档
-    enable: true
+    enable: false
     path: /archives/
     key: archives
   # -
@@ -99,11 +99,6 @@ navbar:
     path: /tags/
     key: tags
   -
-    name: 链接
-    enable: true
-    path: /friend/
-    key: friend
-  -
     name: 图库
     enable: true
     path: /gallery/
@@ -113,6 +108,16 @@ navbar:
     enable: true
     path: /music/
     key: music
+  -
+    name: 说说
+    enable: true
+    path: /artitalk/
+    key: about
+  -
+    name: 链接
+    enable: true
+    path: /friend/
+    key: friend
   -
     name: 关于
     enable: true
