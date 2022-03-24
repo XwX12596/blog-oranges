@@ -138,13 +138,14 @@ friends:
   # site: 地址
   # meta: 描述
   -
-    nickname: Hexo
+    nickname: Hexo (Single link.)
     site: https://hexo.io/
     meta: What this blog powered by.
   -
-    nickname: Zcheng
+    nickname: Zcheng (Single link.)
     site: https://hexo.theme.oranges.zcheng.site/
-    meta: This theme.
+    meta: This theme.Single link.
+  -
   -
     nickname: qiankanshan(🚧under construction🚧)
     site: http://101.201.39.177/
@@ -154,13 +155,13 @@ friends:
     site: http://blog.zhijiao-blog.com
     meta: A Small Shark.
   -
-    nickname: 泠鸢小镇
+    nickname: 泠鸢小镇 (Single link.)
     site: http://1.116.241.89/
-    meta: My Portal.
+    meta: NOT mine.
   -
-    nickname: 冷鸟按钮
+    nickname: 冷鸟按钮 (Single link.)
     site: http://foryousa.icu/
-    meta: My Portal.
+    meta: MOT mine.
 
 # 页脚信息
 footer:
