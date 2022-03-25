@@ -1,5 +1,5 @@
 ---
-title: artitalk
+title: Artitalk
 date: 2022-03-24 09:43:38
 type: about
 ---
