@@ -19,7 +19,7 @@ type: about
             "url": "/songs/Thrown_Down.mp3",
             "lrc": "/songs/Thrown_Down.lrc",
             "pic": "https://s2.loli.net/2022/03/25/ZunfBvxPmCIz1Mw.jpg"
-        }
+        },
          {
             "title": "爱在西元前",
             "author": "周杰伦",
