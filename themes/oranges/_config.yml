@@ -161,6 +161,9 @@ friends:
     nickname: 冷鸟按钮
     site: http://foryousa.icu/
     meta: 'Interesting Site.'
+  -
+    nickname: FRP Free Service
+    meta: 'port:7000;token:170242;allow:2556#'
 
 # 页脚信息
 footer:

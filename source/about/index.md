@@ -23,5 +23,7 @@ type: "about"
 
 [Telegram](https://t.me/XwX12596)
 
+[Email](mailto:1259685860@qq.com)
+
 ### 这个网站
 想为自己的生活留下点证明，但其实只是不务正业的档案。
