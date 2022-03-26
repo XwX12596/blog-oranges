@@ -15,59 +15,15 @@ aside: false
 
 > *已停运!*
 
-下面是当时所用`docker-compose.yml`(需适当修改)
-
-``` yaml
-version: "3"
-
-services:
-  fabric:
-    image: itzg/minecraft-server:latest
-    ports:
-      - 25565:25565
-    volumes:
-      - "/root/MC/fabric:/data"
-      - "/root/fabric/world:/world"
-    environment:
-      EULA: "TRUE"
-      VERSION: "1.18.1"
-      TYPE: "FABRIC"
-      MODS: "/mods"
-      WORLD: "/world"
-      DIFFICULTY: "hard"
-      MAX_PLAYERS: "5"
-      FORCE_GAMEMODE: "true"
-      HARDCORE: "false"
-      MODE: "survival"
-      PVP: "true"
-      ONLINE_MODE: "false"
-      ALLOW_FLIGHT: "true"
-      SERVER_NAME: "DD's Server"
-      MOTD: "DD's Server"
-      MEMORY: "6G"
-      WHITELIST: ""
-      OPS: "X_w_X"
-      BROADCAST_CONSOLE_TO_OPS: "false"
-      BROADCAST_RCON_TO_OPS: "false"
-    restart: always
-```
-
-
-
-<!-- 
-
+```html
+<!-- 查看人数js -->
 <script src="https://cdn.jsdelivr.net/gh/leonardosnt/mc-player-counter/dist/mc-player-counter.min.js"></script>
 
-服务器地址：`mc.xwxstudio.xyz:11055`
+目前在线玩家： <span data-playercounter-ip="x.x.x.x">0</span>  人。 
 
-游戏类型：原版
-
-目前在线玩家： <span data-playercounter-ip="mc.xwxstudio.xyz:11055">0</span>  人。 
-
--->
+```
 
 > 服务器备份在[Github](https://github.com/XwX12596/Fabric118)
-> 
 
 #### 模组列表：
 - **phosphor(可选)**
