@@ -2,7 +2,6 @@
 title: 记录利用docker开设Hexo框架简单博客
 tags: ['Hexo','Docker','Blog']
 date: 2022-02-01 22:00:00
-top: true
 categories:
   - tech
 ---

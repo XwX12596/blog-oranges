@@ -90,7 +90,7 @@ navbar:
     key: archives
   -
     name: 分类
-    enable: true
+    enable: false
     path: /categories/
     key: categories
   -
@@ -99,10 +99,10 @@ navbar:
     path: /tags/
     key: tags
   -
-    name: 一言
-    enable: true
+    name: 说说
+    enable: false
     path: /artitalk/
-    key: about
+    key: home
   -
     name: 图库
     enable: false
