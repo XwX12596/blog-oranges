@@ -110,7 +110,7 @@ navbar:
     key: gallery
   -
     name: 音乐
-    enable: false
+    enable: true
     path: /music/
     key: music
   -
