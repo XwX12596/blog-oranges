@@ -25,7 +25,7 @@ favicon:
 
 # 用户头像与昵称
 avatar:
-  author_photo: https://s2.loli.net/2022/03/27/gFT9G13m6sdUMke.jpg #https://s2.loli.net/2022/01/23/ZxVkEM5sdLQ7phN.jpg #/images/avatar.png
+  author_photo: https://s2.loli.net/2022/01/23/ZxVkEM5sdLQ7phN.jpg #/images/avatar.png https://s2.loli.net/2022/03/27/gFT9G13m6sdUMke.jpg
   author_nickname: XwX
   path: /
 
@@ -39,7 +39,7 @@ gtag:
 
 # 文章评论系统
 comments:
-  enable: false
+  enable: true
   # 目前仅支持gitalk, valine, disqus评论，选择喜欢的一种开启即可
 
   gitalk:
@@ -95,22 +95,22 @@ navbar:
     key: categories
   -
     name: 标签
-    enable: false
+    enable: true
     path: /tags/
     key: tags
   -
     name: 说说
-    enable: false
+    enable: true
     path: /artitalk/
     key: home
   -
     name: 图库
-    enable: false
+    enable: true
     path: /gallery/
     key: gallery
   -
     name: 音乐
-    enable: false
+    enable: true
     path: /music/
     key: music
   -
