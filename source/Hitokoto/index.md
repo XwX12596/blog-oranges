@@ -25,7 +25,7 @@ type: about
         <p  id="hitokoto_text">:D 获取中...</p>
     </h2>
     <h5 align="right" >
-        <a style="text-decoration: none;" href="#" id="hitokoto_from">:D 获取中...</a>
+        <a target="_blank" href="#" id="hitokoto_from">:D 获取中...</a>
     </h5>
     
 </body>
