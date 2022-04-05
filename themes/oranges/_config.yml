@@ -102,7 +102,12 @@ navbar:
     name: 说说
     enable: true
     path: /artitalk/
-    key: home
+    key: artitalk
+  -
+    name: 一言
+    enable: true
+    path: /Hitokoto/
+    key: Hitokoto
   -
     name: 图库
     enable: true
