@@ -99,23 +99,23 @@ navbar:
     path: /tags/
     key: tags
   -
-    name: 说说
-    enable: true
-    path: /artitalk/
-    key: artitalk
-  -
     name: 一言
     enable: true
+    path: /artitalk/
+    key: hitokoto
+  -
+    name: 一言
+    enable: false
     path: /Hitokoto/
     key: Hitokoto
   -
-    name: 图库
+    name: 媒体
     enable: true
-    path: /gallery/
-    key: gallery
+    path: /media/
+    key: media
   -
     name: 音乐
-    enable: true
+    enable: false
     path: /music/
     key: music
   -

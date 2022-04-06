@@ -1,11 +1,36 @@
 ---
-title: Artitalk
+title: hitokoto
 date: 2022-03-24 09:43:38
 type: about
 ---
 
-<body> 
-    <script type="text/javascript" src="https://unpkg.com/artitalk"></script>
+
+
+<script>
+    fetch('https://v1.hitokoto.cn/?c=a&c=b&c=d&c=k')
+        .then(response => response.json())
+        .then(data => {
+            const hitokoto = document.getElementById('hitokoto_text')
+            hitokoto.innerText = data.hitokoto
+            const from = document.getElementById('hitokoto_from')
+            from.href = 'https://hitokoto.cn/?uuid=' + data.uuid
+            if(data.from_who == null){
+                from.innerText = "————" + '「' + data.from + '」'
+            }else{
+                from.innerText = "————" + data.from_who + '「' + data.from + '」'
+            }
+        })
+        .catch(console.error)
+</script>
+<h2 align="center">
+    <p  id="hitokoto_text">:D 获取中...</p>
+</h2>
+<h5 align="right" >
+    <a target="_blank" href="#" id="hitokoto_from">:D 获取中...</a>
+</h5>
+<h4>·下为自言自语·</h4>
+<body>
+<script type="text/javascript" src="https://unpkg.com/artitalk"></script>
     <div id="artitalk_main"></div>
     <script>
     new Artitalk({
