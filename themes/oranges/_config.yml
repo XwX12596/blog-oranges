@@ -90,7 +90,7 @@ navbar:
     key: archives
   -
     name: 分类
-    enable: false
+    enable: true
     path: /categories/
     key: categories
   -
