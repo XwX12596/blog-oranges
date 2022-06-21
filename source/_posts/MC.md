@@ -11,6 +11,18 @@ aside: false
 # sticky: true
 ---
 
+# minecraft 1.18.2 forge Moded 
+
+> *测试中*
+
+<script src="https://cdn.jsdelivr.net/gh/leonardosnt/mc-player-counter/dist/mc-player-counter.min.js"></script>
+
+目前在线玩家： <span data-playercounter-ip="cn-zz-bgp-1.natfrp.cloud:18669">*</span>  人。 
+
+#### 模组列表
+
+>敬请期待
+
 # minecraft 1.18.1 Fabric
 
 > *已停运!*
