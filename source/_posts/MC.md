@@ -16,7 +16,7 @@ sticky: true
 > *2022暑期基友服*
 > 服务器备份在[Github](https://github.com/XwX12596/Forge1.18.2)
 
-<script src="https://cdn.jsdelivr.net/gh/leonardosnt/mc-player-counter/dist/mc-player-counter.min.js"></script>
+<script src="https://oss.xwxstudio.com/js/counter.js"></script>
 
 目前在线玩家： <span data-playercounter-ip="mc.xwxstudio.com">*</span>  人。 
 
