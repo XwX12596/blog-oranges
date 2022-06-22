@@ -20,6 +20,8 @@ sticky: true
 
 目前在线玩家： <span data-playercounter-ip="mc.xwxstudio.com">*</span>  人。 
 
+[管理页面](http://mc.xwxstudio.com:4326)
+
 #### 模组列表
 
 - corn_delight-1.0.2-1.18.2
