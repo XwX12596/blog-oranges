@@ -15,7 +15,7 @@ sticky: true
 >最新版整合包
 <script src="https://oss.xwxstudio.com/js/counter.js"></script>
 
-There are <span data-playercounter-ip="mc.xwxstudio.com">*</span> players online right now.
+There are <span data-playercounter-ip="mc.xwxstudio.com">*</span> players on server right now.
 
 # MC IECreate forge
 >*暂停！*
