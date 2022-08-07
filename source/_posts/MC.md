@@ -10,8 +10,15 @@ cover: https://s2.loli.net/2022/02/02/aog3ZnS5BT9U6ts.png
 aside: false
 sticky: true
 ---
-# MC IECreate forge
+# RLCraft
 >*运行中！*
+>最新版整合包
+<script src="https://oss.xwxstudio.com/js/counter.js"></script>
+
+There are <span data-playercounter-ip="mc.xwxstudio.com">*</span> players online right now.
+
+# MC IECreate forge
+>*暂停！*
 >存档和ModLIST暂未建立。
 
 # MC 1.18.2 forge
