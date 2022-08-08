@@ -26,8 +26,6 @@ sticky: true
 </p>
 </html>
 
-[MCapi](https://mcapi.us/server/status?ip=mc.xwxstudio.com)
-
 # MC IECreate forge
 > ***暂停！***
 
