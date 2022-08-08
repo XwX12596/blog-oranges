@@ -15,8 +15,15 @@ sticky: true
 **最新整合包**
 
 <html>
-    <script src="https://cdn.jsdelivr.net/gh/leonardosnt/mc-player-counter/dist/mc-player-counter.min.js"></script>
-    <p>目前  <b><span data-playercounter-ip="mc.xwxstudio.com" data-playercounter-status>...</span></b> ，有 <b><span data-playercounter-ip="mc.xwxstudio.com" data-playercounter-format="{online}/{max}">*</span></b> 人在玩</p>
+<script src="https://oss.xwxstudio.com/js/mycounter.js">
+</script>
+<p>
+    Status: <b><span id = 'stat'>Requesting...</span></b>
+    <br>
+    Players: <b><span id = 'players'>*</span></b>
+    <br>
+    List: <b><span id = 'names'>*</span></b>
+</p>
 </html>
 
 [MCapi](https://mcapi.us/server/status?ip=mc.xwxstudio.com)
