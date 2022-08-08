@@ -11,29 +11,35 @@ aside: false
 sticky: true
 ---
 # RLCraft
->*运行中！*
->最新版整合包
-<script src="https://oss.xwxstudio.com/js/counter.js"></script>
+>***运行中！***
+**最新整合包**
 
-There are <span data-playercounter-ip="mc.xwxstudio.com">*</span> players on server right now.
+<html>
+    <script src="https://cdn.jsdelivr.net/gh/leonardosnt/mc-player-counter/dist/mc-player-counter.min.js"></script>
+    <p>目前  <b><span data-playercounter-ip="mc.xwxstudio.com" data-playercounter-status>...</span></b> ，有 <b><span data-playercounter-ip="mc.xwxstudio.com" data-playercounter-format="{online}/{max}">*</span></b> 人在玩</p>
+</html>
+
+[MCapi](https://mcapi.us/server/status?ip=mc.xwxstudio.com)
 
 # MC IECreate forge
->*暂停！*
->存档和ModLIST暂未建立。
+> ***暂停！***
+
+存档和ModLIST暂未封存。
 
 # MC 1.18.2 forge
 
-> *已停运!*
-> 服务器早期备份在[Github](https://github.com/XwX12596/Forge1.18.2)
-> 最后存档已丢失。
+> ***已停运!***
 
-#### 模组列表
+服务器早期备份在[Github](https://github.com/XwX12596/Forge1.18.2)
+最后存档已丢失。
+
+#### 模组列表:
 见服务器备份。
 
 # minecraft 1.18.1 Fabric
 
-> *已停运!*
-> 服务器备份在[Github](https://github.com/XwX12596/Fabric118)
+> ***已停运!***
+服务器备份在[Github](https://github.com/XwX12596/Fabric118)
 
 #### 模组列表：
 - **phosphor(可选)**
