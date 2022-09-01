@@ -220,17 +220,17 @@ footer:
       -
         enable: true
         id: busuanzi_value_site_pv
-        name: sv
+        name: sv：
         unit: ''
       -
         enable: true
         id: busuanzi_value_page_pv
-        name: pv
+        name: pv：
         unit: ''
       -
         enable: true
         id: busuanzi_value_site_uv
-        name: uv
+        name: uv：
         unit: ''
 
 # 文章搜索
