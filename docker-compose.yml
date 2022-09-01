@@ -12,3 +12,5 @@ services:
     volumes:
       - $HOME/.ssh:/root/.ssh
       - .:/hexo
+    environment:
+      - TZ: 'Asia/Shanghai'
