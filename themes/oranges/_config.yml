@@ -109,6 +109,11 @@ navbar:
     path: /Hitokoto/
     key: Hitokoto
   -
+    name: 🐟
+    enable: true
+    path: /sakana/
+    key: sakana
+  -
     name: 媒体
     enable: true
     path: /media/
