@@ -13,4 +13,4 @@ services:
       - $HOME/.ssh:/root/.ssh
       - .:/hexo
     environment:
-      - TZ: 'Asia/Shanghai'
+      TZ: 'Asia/Shanghai'
