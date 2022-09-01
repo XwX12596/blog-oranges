@@ -9,6 +9,12 @@ top_img: https://s2.loli.net/2022/02/02/aog3ZnS5BT9U6ts.png
 cover: https://s2.loli.net/2022/02/02/aog3ZnS5BT9U6ts.png
 aside: false
 sticky: true
+password: xwx
+abstract: 有东西被加密了, 请输入密码查看.
+message: password
+theme: default
+wrong_pass_message: 抱歉, 这个密码看着不太对, 请再试试.
+wrong_hash_message: 抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.
 ---
 # RLCraft
 >***运行中！***
