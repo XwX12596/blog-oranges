@@ -14,6 +14,48 @@ date: 2022-03-20 12:43:10
     "fixed": true,
     "preload": "auto",
     "music": [
+        {
+            "title": "砂の惑星",
+            "author": "米津玄師/初音ミク",
+            "url": "https://oss.xwxstudio.com/songs/砂の惑星.mp3",
+            "lrc": "https://oss.xwxstudio.com/songs/砂の惑星.lrc",
+            "pic": "https://s2.loli.net/2022/09/01/1wZJxPhoijKFzQ4.jpg"
+        },
+        {
+            "title": "First Love",
+            "author": "宇多田光",
+            "url": "https://oss.xwxstudio.com/songs/First Love.flac",
+            "lrc": "https://oss.xwxstudio.com/songs/First Love.lrc",
+            "pic": "https://s2.loli.net/2022/09/01/yqsxuvkm8VhOWZ4.png"
+        },
+        {
+            "title": "国际歌",
+            "author": "唐朝乐队",
+            "url": "https://oss.xwxstudio.com/songs/国际歌.flac",
+            "lrc": "https://oss.xwxstudio.com/songs/国际歌.lrc",
+            "pic": "https://s2.loli.net/2022/09/01/EiPbWBzGHFX51yx.png"
+        },
+        {
+            "title": "Wake Me up When September Ends",
+            "author": "Green Day",
+            "url": "https://oss.xwxstudio.com/songs/Wake Me up When September Ends.flac",
+            "lrc": "https://oss.xwxstudio.com/songs/Wake Me up When September Ends.lrc",
+            "pic": "https://s2.loli.net/2022/09/01/mqF379tIbn1KdA8.jpg"
+        },
+        {
+            "title": "萤梦",
+            "author": "泠鸢yousa",
+            "url": "https://oss.xwxstudio.com/songs/萤梦.flac",
+            "lrc": "https://oss.xwxstudio.com/songs/萤梦.lrc",
+            "pic": "https://s2.loli.net/2022/09/01/VIczXR2kYBm37nC.jpg"
+        },
+        {
+            "title": "届かない恋",
+            "author": "小木曽雪菜",
+            "url": "https://oss.xwxstudio.com/songs/届かない恋.mp3",
+            "lrc": "https://oss.xwxstudio.com/songs/届かない恋.lrc",
+            "pic": "https://s2.loli.net/2022/09/01/rQqb8jUBADKJ3FV.jpg"
+        },
          {
             "title": "Thrown Down",
             "author": "Fleetwood Mac",
