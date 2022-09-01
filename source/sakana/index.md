@@ -5,10 +5,14 @@ type: "about"
 ---
 
 <br>
-<div id="sakana-widget" style = "margin-left: 35% ;"></div>
+<div id="sakana-widget1" style = "float:left;"></div>
+<div id="sakana-widget2" style = "float:right;"></div>
 <script>
     function initSakanaWidget() {
-        new SakanaWidget().mount('#sakana-widget');
+        const takina = SakanaWidget.getCharacter('takina');
+        SakanaWidget.registerCharacter('tkn', takina);
+        new SakanaWidget({character : 'tkn'}).mount('#sakana-widget1');
+        new SakanaWidget().mount('#sakana-widget2');
     }
 </script>
 <script async onload="initSakanaWidget()"
