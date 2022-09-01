@@ -1,6 +1,7 @@
 ---
 title: sakana
 date: 2022-09-01 10:30:00
+type: "about"
 ---
 
 <br>
