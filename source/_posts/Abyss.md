@@ -4,6 +4,9 @@ date: 2022-08-05 00:24:08
 tags:
     - ACG
     - Comment
+categories:
+  - life
+  - note
 password: abyss
 abstract: 有东西被加密了, 请输入密码查看.
 message: PASSWORD
