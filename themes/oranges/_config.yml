@@ -70,10 +70,10 @@ comments:
     enable: false
     shortname: https-zxcxxxx-github-io
   
-  # # waline https://waline.js.org
-  # waline:
-  #   enable: true
-  #   serverURL: https://waline-dklij12xj-xwx12596.vercel.app
+  # waline https://waline.js.org
+  waline:
+    enable: false
+    serverURL: https://waline-dklij12xj-xwx12596.vercel.app
 
 # 主题页面导航栏
 navbar:
