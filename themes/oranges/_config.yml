@@ -57,9 +57,9 @@ comments:
     # https://valine.js.org/quickstart.html#%E8%8E%B7%E5%8F%96APP-ID-%E5%92%8C-APP-Key
     # 进入以上网址查看官方教程
     enable: true
-    appId: 04tfKOwv11cx7qB6AXDgAgEx-MdYXbMMI
-    appKey: yMx5QdJagnds2U8Yv4bt6hca
-    placeholder: Welcome!
+    appId: YBH7dy8YlNz0JsvUT2vw1rVn-MdYXbMMI
+    appKey: Q7qAfgOW7OkXlWMWf62B4lb2
+    placeholder: Whatever!
     avatar: retro
 
   # disqus 需科学上网方可使用
