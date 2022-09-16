@@ -15,6 +15,41 @@ date: 2022-03-20 12:43:10
     "preload": "auto",
     "music": [
         {
+            "title": "irony",
+            "author": "ClariS",
+            "url": "https://oss.xwxstudio.com/songs/irony.flac",
+            "lrc": "https://oss.xwxstudio.com/songs/irony.lrc",
+            "pic": "https://s2.loli.net/2022/09/17/5N2dGBMFTDJPvCO.jpg"
+        },
+        {
+            "title": "ナイショの話",
+            "author": "ClariS",
+            "url": "https://oss.xwxstudio.com/songs/ナイショの話.flac",
+            "lrc": "https://oss.xwxstudio.com/songs/ナイショの話.lrc",
+            "pic": "https://s2.loli.net/2022/09/17/CWPyES3zdiLhlbv.jpg"
+        },
+        {
+            "title": "ALIVE",
+            "author": "ClariS",
+            "url": "https://oss.xwxstudio.com/songs/ALIVE.mp3",
+            "lrc": "https://oss.xwxstudio.com/songs/ALIVE.lrc",
+            "pic": "https://s2.loli.net/2022/09/17/9gTHUfyXEm8oPIj.jpg"
+        },
+        {
+            "title": "コネクト",
+            "author": "ClariS",
+            "url": "https://oss.xwxstudio.com/songs/コネクト.mp3",
+            "lrc": "https://oss.xwxstudio.com/songs/コネクト.lrc",
+            "pic": "https://s2.loli.net/2022/09/17/mSioAf2TkILbz4K.jpg"
+        },
+        {
+            "title": "花の塔",
+            "author": "さユり",
+            "url": "https://oss.xwxstudio.com/songs/花の塔.mp3",
+            "lrc": "https://oss.xwxstudio.com/songs/花の塔.lrc",
+            "pic": "https://s2.loli.net/2022/09/17/t9ruHSqpQUCTDGy.jpg"
+        },
+        {
             "title": "砂の惑星",
             "author": "米津玄師/初音ミク",
             "url": "https://oss.xwxstudio.com/songs/砂の惑星.mp3",
