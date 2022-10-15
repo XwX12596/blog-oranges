@@ -9,7 +9,7 @@ top_img: https://s2.loli.net/2022/02/02/aog3ZnS5BT9U6ts.png
 cover: https://s2.loli.net/2022/02/02/aog3ZnS5BT9U6ts.png
 aside: false
 sticky: true
-password: xwx
+password: X_w_X
 abstract: 有东西被加密了, 请输入密码查看.
 message: PASSWORD
 theme: default
@@ -17,10 +17,11 @@ wrong_pass_message: 抱歉, 这个密码看着不太对, 请再试试.
 wrong_hash_message: 抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.
 ---
 # RLCraft
->***运行中！***
-**最新整合包**
+>***已停运！***
 
-<html>
+存档和ModLIST无封存计划。
+
+<!-- <html>
 <script src="https://oss.xwxstudio.com/js/mycounter.js">
 </script>
 <p>
@@ -30,12 +31,12 @@ wrong_hash_message: 抱歉, 这个文章不能被校验, 不过您还是能看�
     <br>
     List: <b><span id = 'names'>*</span></b>
 </p>
-</html>
+</html> -->
 
 # MC IECreate forge
-> ***暂停！***
+> ***已停运！***
 
-存档和ModLIST暂未封存。
+存档和ModLIST无封存计划。
 
 # MC 1.18.2 forge
 
