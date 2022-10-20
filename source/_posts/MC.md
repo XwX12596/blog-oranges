@@ -18,8 +18,9 @@ wrong_hash_message: 抱歉, 这个文章不能被校验, 不过您还是能看�
 ---
 # RLCraft
 >***已停运！***
+> 服务器备份在[GitHub](https://github.com/XwX12596/RLCraft-Friend-Server)
 
-存档和ModLIST无封存计划。
+注意备份中过大Mod文件的缺失！
 
 <!-- <html>
 <script src="https://oss.xwxstudio.com/js/mycounter.js">
