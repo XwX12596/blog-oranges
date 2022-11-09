@@ -1,5 +1,5 @@
 ---
-title: 使用yt-dlp和mpv浏览B站
+title: 使用yt-dlp和mpv浏览B站直播
 date: 2022-11-09 22:06:44
 categories:
     - video
