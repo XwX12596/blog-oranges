@@ -28,7 +28,7 @@ type: about
 <h5 align="right" >
     <a target="_blank" href="#" id="hitokoto_from">:D 获取中...</a>
 </h5>
-<h4>·下为自言自语· (需要科学上网</h4>
+<h4>·下为自言自语·</h4>
 <body>
 <script type="text/javascript" src="https://oss.xwxstudio.com/js/artitalk.js"></script>
     <div id="artitalk_main"></div>
