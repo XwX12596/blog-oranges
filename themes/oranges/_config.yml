@@ -39,7 +39,7 @@ gtag:
 
 # 文章评论系统
 comments:
-  enable: false
+  enable: true
   # 目前仅支持gitalk, valine, disqus评论，选择喜欢的一种开启即可
 
   gitalk:
@@ -99,14 +99,14 @@ navbar:
     key: tags
   -
     name: 一言
-    enable: true
+    enable: false
     path: /artitalk/
     key: hitokoto
   -
     name: 一言
-    enable: false
-    path: /Hitokoto/
-    key: Hitokoto
+    enable: true
+    path: /shuoshuo/
+    key: hitokoto
   -
     name: 🐟
     enable: true
@@ -247,7 +247,7 @@ postShare:
 codeBlock:
   # 代码块风格，默认normal
   # 可选：默认风格'normal'；mac黑色风格：'mac-black'
-  style: 'normal'
+  style: 'mac-black'
   # 代码复制
   copy:
     enable: true
