@@ -44,6 +44,7 @@ sudo -v && wget -nv -O- https://download.calibre-ebook.com/linux-installer.sh | 
 下面看到`Calibre`，将文件添加书籍后，进行转换书籍至需要的格式，DeDRM便会自动运行，得到非加密的文件。
 
 > 当然你也可以在类似[z-library](https://zh.z-lib.org/)之类的找到想要的文档。
+> 当然现在想用 `z-library` 可以去了解一下 [Tor](https://www.torproject.org/)。
 
 # 网络电子书传进Kindle
 添加书籍，传输进去即可。
