@@ -30,7 +30,7 @@ type: about
 </h5>
 <h4>·下为自言自语·</h4>
 <body>
-<script type="text/javascript" src="https://unpkg.com/artitalk"></script>
+<script type="text/javascript" src="https://oss.xwxstudio.com/js/artitalk.js"></script>
     <div id="artitalk_main"></div>
     <script>
     new Artitalk({
