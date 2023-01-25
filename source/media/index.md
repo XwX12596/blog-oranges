@@ -17,9 +17,9 @@ date: 2022-03-20 12:43:10
         {
             "title": "再生",
             "author": "Perfume",
-            "url": "https://oss.xwxstudio.com/songs/Perfume - 再生.flac",
-            "lrc": "https://oss.xwxstudio.com/songs/Perfume - 再生.lrc",
-            "pic": "https://oss.xwxstudio.com/songs/Perfume - 再生.png"
+            "url": "https://oss.xwxstudio.com/songs/再生.flac",
+            "lrc": "https://oss.xwxstudio.com/songs/再生.lrc",
+            "pic": "https://oss.xwxstudio.com/songs/再生.png"
         },
         {
             "title": "irony",
