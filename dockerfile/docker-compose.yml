@@ -3,7 +3,7 @@ services:
   blog:
     restart: always
     build:
-        context: .
+        context: /root/blog-oranges/dockerfile
         dockerfile: Dockerfile
     image: blog:latest
     container_name: blog-oranges
@@ -11,6 +11,6 @@ services:
       - "8080:4000"
     volumes:
       - $HOME/.ssh:/root/.ssh
-      - .:/hexo
+      - /root/blog-orange:/hexo
     environment:
       TZ: 'Asia/Shanghai'
