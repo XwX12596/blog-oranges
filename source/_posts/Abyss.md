@@ -7,12 +7,6 @@ tags:
 categories:
   - life
   - note
-# password: abyss
-# abstract: 有东西被加密了, 请输入密码查看.
-# message: PASSWORD
-# theme: default
-# wrong_pass_message: 抱歉, 这个密码看着不太对, 请再试试.
-# wrong_hash_message: 抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.
 ---
 
 从TV开始便一直有一种想法，主角团，尤其是`Riko`，带有一种与哈勃大叔和队长都不一样的孩童视角，这一点在其他的红笛身上也有体现，但是莉可是坚强的，所以她不光能面对他人的苦痛，也能毫不忌讳地直面自己的苦痛。
