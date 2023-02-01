@@ -16,11 +16,6 @@ theme: default
 wrong_pass_message: 抱歉, 这个密码看着不太对, 请再试试.
 wrong_hash_message: 抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.
 ---
-# RLCraft
->***已停运！***
-> 服务器备份在[GitHub](https://github.com/XwX12596/RLCraft-Friend-Server)
-
-注意备份中过大Mod文件的缺失！
 
 # MC 1.19.2 forge
 
@@ -40,6 +35,12 @@ wrong_hash_message: 抱歉, 这个文章不能被校验, 不过您还是能看�
     List: <b><span id = 'names'>*</span></b>
 </p>
 </html>
+
+# RLCraft
+>***已停运！***
+> 服务器备份在[GitHub](https://github.com/XwX12596/RLCraft-Friend-Server)
+
+注意备份中过大Mod文件的缺失！
 
 # MC IECreate forge
 > ***已停运！***
