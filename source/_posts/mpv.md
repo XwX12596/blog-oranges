@@ -5,7 +5,7 @@ categories:
   - life
   - video
 tags:
-    - MPV
+    - mpv
 ---
 
 ```
