@@ -8,6 +8,8 @@ tags:
     - mpv
 ---
 
+主要来自`vcb`社区的推荐配置。
+
 ```
 script-opts=ytdl_hook-ytdl_path=yt-dlp
 script-opts-append=ytdl_hook-ytdl_path=yt-dlp
