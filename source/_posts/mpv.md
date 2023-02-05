@@ -37,7 +37,7 @@ scale=ewa_lanczossharp
 video-sync=display-resample
 interpolation=yes
 tscale=oversample
-video-aspect=1.9
+#video-aspect=1.9
 
 slang=chs,sc,zh,chi,zho,zh-Hans
 sub-auto=fuzzy
