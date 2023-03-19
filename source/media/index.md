@@ -15,6 +15,13 @@ date: 2022-03-20 12:43:10
     "preload": "auto",
     "music": [
         {
+            "title": "鱼仔",
+            "author": "卢广仲",
+            "url": "https://oss.xwxstudio.com/songs/鱼仔.flac",
+            "lrc": "https://oss.xwxstudio.com/songs/鱼仔.lrc",
+            "pic": "https://oss.xwxstudio.com/songs/鱼仔.png"
+        },
+        {
             "title": "再生",
             "author": "Perfume",
             "url": "https://oss.xwxstudio.com/songs/再生.flac",
