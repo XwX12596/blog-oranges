@@ -26,7 +26,7 @@ date: 2022-03-20 12:43:10
             "author": "平田智穗子",
             "url": "https://oss.xwxstudio.com/songs/Heartbreak.mp3",
             "lrc": "https://oss.xwxstudio.com/songs/MassDestruction.lrc",
-            "pic": "https://smms.app/image/qE6f3HCXtyKrUcz"
+            "pic": "https://s2.loli.net/2023/04/01/qE6f3HCXtyKrUcz.jpg"
         },
         {
             "title": "鱼仔",
