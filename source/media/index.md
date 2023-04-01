@@ -6,7 +6,7 @@ date: 2022-03-20 12:43:10
 
 {% aplayerlist %}
 {
-    "narrow": fase,                         
+    "narrow": false,                         
     "autoplay": false,                
     "mode": "random",                        
     "showlrc": 1, 
