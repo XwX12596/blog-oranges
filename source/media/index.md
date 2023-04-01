@@ -11,7 +11,6 @@ date: 2022-03-20 12:43:10
     "mode": "random",                        
     "showlrc": 2,                        
     "theme": "#39c5bb",
-    "fixed": true,
     "preload": "auto",
     "music": [
         {
