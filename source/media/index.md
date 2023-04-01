@@ -6,10 +6,10 @@ date: 2022-03-20 12:43:10
 
 {% aplayerlist %}
 {
-    "narrow": false,                         
-    "autoplay": true,                
+    "narrow": true,                         
+    "autoplay": false,                
     "mode": "random",                        
-    "showlrc": 3,                        
+    "showlrc": 1,                        
     "theme": "#39c5bb",
     "preload": "metadata",
     "music": [
@@ -25,7 +25,7 @@ date: 2022-03-20 12:43:10
             "author": "平田智穗子",
             "url": "https://oss.xwxstudio.com/songs/Heartbreak.mp3",
             "lrc": "https://oss.xwxstudio.com/songs/MassDestruction.lrc",
-            "pic": "https://oss.xwxstudio.com/songs/Heartbreak.jpg"
+            "pic": "https://smms.app/image/qE6f3HCXtyKrUcz"
         },
         {
             "title": "鱼仔",
