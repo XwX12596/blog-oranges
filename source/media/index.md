@@ -6,10 +6,11 @@ date: 2022-03-20 12:43:10
 
 {% aplayerlist %}
 {
-    "narrow": true,                         
+    "narrow": fase,                         
     "autoplay": false,                
     "mode": "random",                        
-    "showlrc": 1,                        
+    "showlrc": 1, 
+    "fixed": true,                     
     "theme": "#39c5bb",
     "preload": "metadata",
     "music": [
