@@ -9,7 +9,7 @@ date: 2022-03-20 12:43:10
     "narrow": false,                         
     "autoplay": true,                
     "mode": "random",                        
-    "showlrc": 1, 
+    "showlrc": 3, 
     "fixed": true,                     
     "theme": "#39c5bb",
     "preload": "metadata",
