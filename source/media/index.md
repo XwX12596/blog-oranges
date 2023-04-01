@@ -15,6 +15,20 @@ date: 2022-03-20 12:43:10
     "preload": "auto",
     "music": [
         {
+            "title": "Heartbeat, Heartbreak",
+            "author": "平田智穗子",
+            "url": "https://oss.xwxstudio.com/songs/Heartbreak.mp3",
+            <!-- "lrc": "https://oss.xwxstudio.com/songs/MassDestruction.lrc", -->
+            "pic": "https://oss.xwxstudio.com/songs/Heartbreak.jpg"
+        },
+        {
+            "title": "Mass Destruction",
+            "author": "川村ゆみ、Lotus Juice",
+            "url": "https://oss.xwxstudio.com/songs/MassDestruction.flac",
+            "lrc": "https://oss.xwxstudio.com/songs/MassDestruction.lrc",
+            "pic": "https://oss.xwxstudio.com/songs/MassDestruction.png"
+        },
+        {
             "title": "鱼仔",
             "author": "卢广仲",
             "url": "https://oss.xwxstudio.com/songs/鱼仔.flac",
@@ -228,6 +242,7 @@ date: 2022-03-20 12:43:10
 }
 {% endaplayerlist %}
 
+![](https://oss.xwxstudio.com/songs/hanser-wan.jpg)
 ![](https://s2.loli.net/2022/03/20/mKAznTbah7sRDtq.jpg)
 ![](https://s2.loli.net/2022/03/23/Gcn5YUK9aFI1tbm.jpg)
 ![](https://s2.loli.net/2022/03/23/wH3TdLpUAfV5nai.png)

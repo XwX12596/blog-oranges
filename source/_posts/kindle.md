@@ -9,7 +9,7 @@ categories:
   - read
 top_img: 'https://s2.loli.net/2022/02/25/W1bGsRZ6jKXLxA2.jpg'
 cover: 'https://s2.loli.net/2022/02/25/W1bGsRZ6jKXLxA2.jpg'
-date: 2022-02-25 23:58:50
+date: 2023-04-01 21:20:00
 ---
 
 
@@ -43,8 +43,8 @@ sudo -v && wget -nv -O- https://download.calibre-ebook.com/linux-installer.sh | 
 搜索引擎搜索`Kindle商店`，在我的账户下拉菜单里找到`管理我的内容与设备`，在此页面可以下载加密后的文件。
 下面看到`Calibre`，将文件添加书籍后，进行转换书籍至需要的格式，DeDRM便会自动运行，得到非加密的文件。
 
-> 当然你也可以在类似[z-library](https://zh.z-lib.org/)之类的找到想要的文档。
-> 当然现在想用 `z-library` 可以去了解一下 [Tor](https://www.torproject.org/)。
+> 当然你也可以在类似[z-library](https://singlelogin.me/)之类的找到想要的文档。
+> ~~当然现在想用 `z-library` 可以去了解一下 [Tor](https://www.torproject.org/)。~~
 
 # 网络电子书传进Kindle
 添加书籍，传输进去即可。

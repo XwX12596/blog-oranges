@@ -1,14 +1,14 @@
 ---
 title: 记录利用docker开设Hexo框架简单博客
 tags: ['Hexo','Docker','Blog']
-date: 2022-02-01 22:00:00
+date: 2023-04-01 21:20:00
 categories:
   - tech
 ---
 # 准备工作
 ## 云服务器
 - 系统：**Ubuntu**
-- 使用域名：**www.xwxstudio.com**
+- 使用域名：**xwxstudio.com**
 
 ## Node.js
 ### 从[NodeSource](https://github.com/nodesource/distributions#debinstall)安装
