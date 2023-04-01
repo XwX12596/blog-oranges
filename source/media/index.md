@@ -33,7 +33,7 @@ date: 2022-03-20 12:43:10
             "author": "卢广仲",
             "url": "https://oss.xwxstudio.com/songs/鱼仔.flac",
             "lrc": "https://oss.xwxstudio.com/songs/鱼仔.lrc",
-            "pic": "https://raw.githubusercontent.com/XwX12596/image/main/img/2023/03/19/20230319201732.jpg"
+            "pic": "https://s2.loli.net/2023/04/01/91jF7TlPcoVWbG4.jpg"
         },
         {
             "title": "再生",
