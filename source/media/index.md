@@ -18,7 +18,7 @@ date: 2022-03-20 12:43:10
             "title": "Heartbeat, Heartbreak",
             "author": "平田智穗子",
             "url": "https://oss.xwxstudio.com/songs/Heartbreak.mp3",
-            <!-- "lrc": "https://oss.xwxstudio.com/songs/MassDestruction.lrc", -->
+            "lrc": "https://oss.xwxstudio.com/songs/MassDestruction.lrc",
             "pic": "https://oss.xwxstudio.com/songs/Heartbreak.jpg"
         },
         {
