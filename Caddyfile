@@ -1,4 +1,12 @@
-xwxstudio.com
-experimental_http3
+{
+servers :443 {
+protocols h1 h2c h3
+}
+}
+
+
+xwxstudio.com:443 {
 root * /root/blog-oranges/public
+encode zstd gzip
 file_server
+}
