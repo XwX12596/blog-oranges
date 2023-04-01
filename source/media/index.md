@@ -19,7 +19,7 @@ date: 2022-03-20 12:43:10
             "author": "川村ゆみ、Lotus Juice",
             "url": "https://oss.xwxstudio.com/songs/MassDestruction.flac",
             "lrc": "https://oss.xwxstudio.com/songs/MassDestruction.lrc",
-            "pic": "https://oss.xwxstudio.com/songs/MassDestruction.png"
+            "pic": "https://s2.loli.net/2023/04/01/s8SVQdXCFD7JUuc.png"
         },
         {
             "title": "Heartbeat, Heartbreak",
