@@ -118,10 +118,10 @@ navbar:
     path: /media/
     key: media
   -
-    name: 音乐
-    enable: false
-    path: /music/
-    key: music
+    name: 新番
+    enable: true
+    path: /bangumi/
+    key: about
   -
     name: 链接
     enable: true

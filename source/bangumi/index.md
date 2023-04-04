@@ -1,6 +1,7 @@
 ---
 title: 2023春
 date: 2023-04-04 23:43:20
+type: "about"
 ---
 
 ### SUN
@@ -27,7 +28,6 @@ date: 2023-04-04 23:43:20
   - 为美好的世界献上爆焰（4.5）
 - 23：30
   - 无神世界中的神明活动（4.5）
-  - <img src="https://raw.githubusercontent.com/XwX12596/image/main/img/image-20230402125213102.png" alt="image-20230402125213102" style="zoom: 50%;" />
 
 ### THU
 
@@ -35,7 +35,6 @@ date: 2023-04-04 23:43:20
   - 魔法师的新娘（4.6）
 - 21：30
   - 百合是我的工作（4.6）
-  - ![image-20230404232215648](https://raw.githubusercontent.com/XwX12596/image/main/img/image-20230404232215648.png)
 
 ### FRI
 
@@ -51,7 +50,7 @@ date: 2023-04-04 23:43:20
 
 ### SAT
 
-- 21：00
+- 21：00 -> *+2d@18:00*
   - 天国大魔境
 - 23：30
   - 和山田进行Lv999的恋爱
