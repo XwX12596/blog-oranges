@@ -113,7 +113,7 @@ navbar:
     path: /sakana/
     key: sakana
   -
-    name: 画廊
+    name: 媒体
     enable: true
     path: /media/
     key: media
