@@ -113,7 +113,7 @@ navbar:
     path: /sakana/
     key: sakana
   -
-    name: 媒体
+    name: 画廊
     enable: true
     path: /media/
     key: media
@@ -121,7 +121,7 @@ navbar:
     name: 新番
     enable: true
     path: /bangumi/
-    key: about
+    key: bangumi
   -
     name: 链接
     enable: true
