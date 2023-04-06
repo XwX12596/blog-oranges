@@ -258,4 +258,5 @@ mathjax:
   enable: true
 
 # 主题色
-themeColor: '#808080'
+# themeColor: '#808080'
+themeColor: '#39C5BB'
