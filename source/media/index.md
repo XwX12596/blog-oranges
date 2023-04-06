@@ -17,7 +17,7 @@ date: 2022-03-20 12:43:10
         {
             "title": "Butterfly kiss",
             "author": "目黑将司",
-            "url": "https://oss.xwxstudio.com/songs/Butterfly kiss.flac",
+            "url": "https://oss.xwxstudio.com/songs/Butterfly Kiss.flac",
             "pic": "https://s2.loli.net/2023/04/06/BOZYg627klMJ3LI.png"
         },
         {
