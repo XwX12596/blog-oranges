@@ -15,6 +15,12 @@ date: 2022-03-20 12:43:10
     "preload": "metadata",
     "music": [
         {
+            "title": "Butterfly kiss",
+            "author": "目黑将司",
+            "url": "https://oss.xwxstudio.com/songs/Butterfly kiss.flac",
+            "pic": "https://s2.loli.net/2023/04/06/BOZYg627klMJ3LI.png"
+        },
+        {
             "title": "Mass Destruction",
             "author": "川村ゆみ、Lotus Juice",
             "url": "https://oss.xwxstudio.com/songs/MassDestruction.flac",
