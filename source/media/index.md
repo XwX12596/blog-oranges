@@ -249,6 +249,7 @@ date: 2022-03-20 12:43:10
 }
 {% endaplayerlist %}
 
+![](https://s2.loli.net/2023/04/18/toPeEGizf82LuOU.png)
 ![](https://oss.xwxstudio.com/songs/hanser-wan.jpg)
 ![](https://s2.loli.net/2022/03/20/mKAznTbah7sRDtq.jpg)
 ![](https://s2.loli.net/2022/03/23/Gcn5YUK9aFI1tbm.jpg)
