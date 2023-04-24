@@ -19,6 +19,8 @@ type: "about"
 
 **目标**是以后能养活自己~~和自己的兴趣~~。
 
+![屏幕截图 2023-04-23 231752.png](https://s2.loli.net/2023/04/24/4FDHhbzN1pAQsiI.png)
+
 ### 联系方式
 
 [Telegram](https://t.me/XwX12596)
