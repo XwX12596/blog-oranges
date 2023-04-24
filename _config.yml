@@ -108,7 +108,7 @@ deploy:
   branch: main
 
 lazyload:
-  enable: true
+  enable: false
   onlypost: false # optional
   loadingImg: # optional eg ./images/loading.gif
   isSPA: false # optional
