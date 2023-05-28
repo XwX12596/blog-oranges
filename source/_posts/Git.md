@@ -1,5 +1,5 @@
 ---
-title: Git初学笔记
+title: Git笔记
 tags:
   - Git
   - Github
