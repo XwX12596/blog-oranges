@@ -1,10 +1,8 @@
 ---
-title: FFmpeg
+title: FFmpeg 笔记
 date: 2023-05-28 23:53:24
 tags:
 ---
-
-# FFmpeg
 
 - `-i` 指定输入文件
 - `-y` 忽略警告(覆盖已有文件)
