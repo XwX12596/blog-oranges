@@ -13,13 +13,13 @@ type: "about"
 
 00后，20岁，**是学生**。
 
-也是**鸟蛋**。
+也是[**鸟蛋**](https://space.bilibili.com/282994)。
 
 **专业**是EE，**失败**大学生，就读于**夏官营大专**。
 
 **目标**是以后能养活自己~~和自己的兴趣~~。
 
-<img src="https://s2.loli.net/2023/04/24/4FDHhbzN1pAQsiI.png" alt="DEBU" style="zoom:20%;" />
+<img src="https://s2.loli.net/2023/04/24/4FDHhbzN1pAQsiI.png" alt="DEBU" style="zoom:33%;" />
 
 ### 联系方式
 
