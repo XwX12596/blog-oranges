@@ -14,25 +14,45 @@ tags:
 
 没活儿可以咬打火机！
 ```bash
-#!/bin/bash
-time=$(date "+%m%d%H%M%S")
-if [ $# == 1 ]
-then
-        filename="/home/xwx/video/Live/bili"$1"-"${time}".flv"
-        echo "No Record!"
-        mpv --referrer='https://live.bilibili.com' --ytdl-raw-options=format='best[vcodec=avc]' https://live.bilibili.com/$1
-elif [ $# == 2 ] && [ $2 == 'r' ]
-then
-        filename="/home/xwx/video/Live/bili-"$1"-"${time}".flv"
-        echo "Record in ~/video/Live/"
-        mpv --referrer='https://live.bilibili.com' --ytdl-raw-options=format='best[vcodec=avc]' https://live.bilibili.com/$1 --stream-record=${filename}
-elif [ $# == 3 ] && [ $2 == 'rn' ]
-then
-        filename="/home/xwx/video/Live/"${3}"-"$1"-"${time}".flv"
-        echo "Record in ~/video/Live/"
-        mpv --referrer='https://live.bilibili.com' --ytdl-raw-options=format='best[vcodec=avc]' https://live.bilibili.com/$1 --stream-record=${filename}
-else
-        echo "Wrong Arg!"
-fi
+script-opts=ytdl_hook-ytdl_path=yt-dlp
+script-opts-append=ytdl_hook-ytdl_path=yt-dlp
+
+vo=gpu
+gpu-context=auto
+#hwdec=nvdec-copy
+
+#d3d11-adapter="NVIDIA GeForce RTX 2050"
+
+#vulkan-device="NVIDIA GeForce RTX 2050"
+
+hr-seek-framedrop=no
+autofit=1920
+#border=no
+
+alang=jp,jpn,zh,chs,zh-Hans
+audio-file-auto=exact
+#audio-exclusive=yes
+volume-max=100
+#audio-pitch-correction=noidle=yes
+
+osd-on-seek=msg-bar
+osd-font="FZZhunYuan-M02"
+osd-font-size=40
+osd-playing-msg="${filename}"
+
+profile=gpu-hq
+#icc-profile-auto=yes
+icc-force-contrast=1000
+blend-subtitles=video
+scale=ewa_lanczossharp
+video-sync=display-resample
+#interpolation=yes
+#tscale=oversample
+#video-aspect=1.9
+
+slang=chs,sc,zh,chi,zho,zh-Hans
+sub-auto=fuzzy
+sub-scale=0.8
+sub-font="FZZhunYuan-M02"
 ```
 艹，走，忽略！

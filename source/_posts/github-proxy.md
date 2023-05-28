@@ -1,5 +1,5 @@
 ---
-title: GitHub Proxy
+title: GitHub 代理
 date: 2022-10-15 23:04:44
 tags:
   - Git
