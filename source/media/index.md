@@ -15,6 +15,13 @@ date: 2022-03-20 12:43:10
     "preload": "metadata",
     "music": [
         {
+            "title": "風を食む",
+            "author": "ヨルシカ",
+            "url": "https://oss.xwxstudio.com/songs/風を食む.flac",
+            "lrc": "/media/assets/風を食む.lrc",
+            "pic": "/media/assets/風を食む.jpg",
+        },
+        {
             "title": "Butterfly kiss",
             "author": "目黑将司",
             "url": "https://oss.xwxstudio.com/songs/Butterfly Kiss.flac",
