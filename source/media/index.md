@@ -19,7 +19,7 @@ date: 2022-03-20 12:43:10
             "author": "ヨルシカ",
             "url": "https://oss.xwxstudio.com/songs/風を食む.flac",
             "lrc": "/media/assets/風を食む.lrc",
-            "pic": "/media/assets/風を食む.jpg",
+            "pic": "/media/assets/風を食む.jpg"
         },
         {
             "title": "Butterfly kiss",
