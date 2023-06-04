@@ -17,22 +17,36 @@ tags:
 if [ $# == 1 ]
 then
         echo "No Record!"
-        mpv --referrer='https://live.bilibili.com' --autofit=1280 --script-opts=osc-visibility=never --ytdl-raw-options=format='best[vcodec=avc]' https://live.bilibili.com/$1
+        mpv --referrer='https://live.bilibili.com' \
+            --autofit=1280 \
+            --script-opts=osc-visibility=never \
+            --ytdl-raw-options=format='best[vcodec=avc]' \
+            https://live.bilibili.com/$1
 elif [ $# == 2 ] && [ $1 == 'r' ]
 then
 	time=$(date "+%m%d%H%M%S")
         filename="/home/xwx/Media/Live/bili-"$2"-"${time}".flv"
         echo "Record in ~/Media/Live/"
-        mpv --referrer='https://live.bilibili.com' --autofit=1280 --script-opts=osc-visibility=never --ytdl-raw-options=format='best[vcodec=avc]' https://live.bilibili.com/$2 --stream-record=${filename}
+        mpv --referrer='https://live.bilibili.com' \
+            --autofit=1280 \
+            --script-opts=osc-visibility=never \
+            --ytdl-raw-options=format='best[vcodec=avc]' --stream-record=${filename} \
+            https://live.bilibili.com/$2 
 elif [ $# == 3 ] && [ $1 == 'rn' ]
 then
 	time=$(date "+%m%d%H%M%S")
         filename="/home/xwx/Media/Live/"${2}"-"$3"-"${time}".flv"
         echo "Record in ~/Media/Live/"
-        mpv --referrer='https://live.bilibili.com' --autofit=1280 --script-opts=osc-visibility=never --ytdl-raw-options=format='best[vcodec=avc]' https://live.bilibili.com/$3 --stream-record=${filename}
+        mpv --referrer='https://live.bilibili.com' \
+            --autofit=1280 \
+            --script-opts=osc-visibility=never \
+            --ytdl-raw-options=format='best[vcodec=avc]' \
+            --stream-record=${filename} \
+            https://live.bilibili.com/$3 
 elif [ $# == 2 ] && [ $1 == 'v' ]
 then
-        mpv --referrer='https://www.bilibili.com' https://www.bilibili.com/video/$2
+        mpv --referrer='https://www.bilibili.com' \
+            https://www.bilibili.com/video/$2
 elif [ $# == 3 ] && [ $1 == 'vp' ]
 then
 	prefix="https://www.bilibili.com/video/${2}/?p="
