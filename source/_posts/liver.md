@@ -9,7 +9,6 @@ tags:
 ```python
 #liver.py
 import os
-import time
 from requests import get
 
 Names = []
