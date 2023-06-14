@@ -14,10 +14,10 @@ from requests import get
 
 Names = []
 UIDs = []
-liverc = os.environ['HOME']
+liverc = os.environ['HOME'] + "/.liverc"
 url = "https://api.live.bilibili.com/room/v1/Room/get_status_info_by_uids"
 
-with open(liverc + "/.liverc", 'r') as f:
+with open(liverc, 'r') as f:
     for line in f.readlines():
         name, UID = line.strip('\n').split(' ')
         Names.append(name)
