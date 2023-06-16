@@ -6,6 +6,32 @@ tags:
 
 # 如题
 
+```bash
+#!/bin/bash
+declare -A INFO=()
+liverc=""$HOME"/.liverc"
+url='https://api.live.bilibili.com/room/v1/Room/get_status_info_by_uids'
+output='GET DA⭐ZE\n'
+
+while IFS=' ' read -r name ID; do
+        INFO+=(["$ID"]="$name")
+done < "$liverc"
+
+echo 'Requesting...'
+respond=$(curl -s \
+        'https://api.live.bilibili.com/room/v1/Room/get_status_info_by_uids' \
+        -H 'Content-Type: application/json' \
+        -d '{"uids": ['$(IFS=, ;echo "${!INFO[*]}")']}')
+for ID in $(echo "${!INFO[*]}"); do
+        live_status=$(echo $respond | jq '.["data"] | .["'${ID}'"] | .["live_status"] ')
+        if [[ ${live_status} -eq 1 ]]; then
+                output+="\t${INFO["${ID}"]}\n"
+        fi
+done
+
+echo -e ${output::-2}
+```
+
 ```python
 #liver.py
 import os
