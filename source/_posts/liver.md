@@ -8,12 +8,14 @@ tags:
 
 ```bash
 #!/bin/bash
-declare -A INFO=()
+INFO=()
 liverc=""$HOME"/.liverc"
 url='https://api.live.bilibili.com/room/v1/Room/get_status_info_by_uids'
-output='GET DA⭐ZE\n'
+greeting='GET DA⭐ZE\n'
+sorry='DAMEDAYO!'
+out=''
 
-while IFS=' ' read -r name ID; do
+while IFS=' ' read name ID; do
         INFO+=(["$ID"]="$name")
 done < "$liverc"
 
@@ -21,15 +23,20 @@ echo 'Requesting...'
 respond=$(curl -s \
         'https://api.live.bilibili.com/room/v1/Room/get_status_info_by_uids' \
         -H 'Content-Type: application/json' \
-        -d '{"uids": ['$(IFS=, ;echo "${!INFO[*]}")']}')
+        -d '{"uids": ['$(IFS=,; echo "${!INFO[*]}")']}')
 for ID in $(echo "${!INFO[*]}"); do
         live_status=$(echo $respond | jq '.["data"] | .["'${ID}'"] | .["live_status"] ')
-        if [[ ${live_status} -eq 1 ]]; then
+        if [[ ${live_status} == 1 ]]; then
                 output+="\t${INFO["${ID}"]}\n"
         fi
 done
 
-echo -e ${output::-2}
+if [[ ${output} != '' ]]
+then
+        echo -e ${greeting}${output::-2}
+else
+        echo -e ${sorry}
+fi
 ```
 
 ```python
