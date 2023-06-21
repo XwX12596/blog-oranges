@@ -25,17 +25,20 @@ respond=$(curl -s \
 	-H 'Content-Type: application/json' \
 	-d '{"uids": ['$(IFS=,; echo "${!table[*]}")']}')
 
-IDs=($(echo $respond | jq '.["data"]| 'keys'' | sed -e 's/"//g' -e 's/,/ /g' -e 's/\[//g' -e 's/\]//g'))
+IDs=($(echo $respond | jq '.["data"]| 'keys'' \
+| sed -e 's/"//g' -e 's/,/ /g' -e 's/\[//g' -e 's/\]//g'))
 count=1
 
 for ID in ${IDs[@]} ; do
-	result=$(echo $respond | jq '.["data"] | .["'${ID}'"] | [.live_status, .title, .live_time, .room_id]')
+	result=$(echo $respond | jq '.["data"] | .["'${ID}'"] \
+    | [.live_status, .title, .live_time, .room_id]')
 	result=$(echo $result | sed -e 's/\[//g' -e 's/\]//g' -e  's/ //g' -e 's/,/ /g' )
 	IFS=' ' read live_status title live_time room_id<<< $result
 	live_time=$(date -d @$live_time +"%H:%M:%S")
 	if [[ ${live_status} == 1 ]]; then
 		title=$(echo ${title} | sed -e 's/"//g' -e 's/【/「/g' -e 's/】/」/g')
-		buffer+='printf "%d\t%s\t\e[90m%s\e[0m\t\e[32m%s\e[0m\n" "'$count'" "'${table["${ID}"]}'" "'${title}'" "'${live_time}'" ;'
+		buffer+='printf "%d\t%s\t\e[90m%s\e[0m\t\e[32m%s\e[0m\n"\
+         "'$count'" "'${table["${ID}"]}'" "'${title}'" "'${live_time}'" ;'
 		room_ids+=($room_id)
 		count=$((${count}+1))
 	fi
