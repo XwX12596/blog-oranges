@@ -76,5 +76,5 @@ type: "about"
       - 后宫
       - 上坂堇
 
-下图来自[长门有C](https://www.bilibili.com/video/BV1j14y1U77P)。
-![image-20230623125903050](https://raw.githubusercontent.com/XwX12596/image/main/img/2023/06/23/20230623130535.png)
+<!-- 下图来自[长门有C](https://www.bilibili.com/video/BV1j14y1U77P)。 -->
+<!-- ![image-20230623125903050](https://raw.githubusercontent.com/XwX12596/image/main/img/2023/06/23/20230623130535.png) -->
