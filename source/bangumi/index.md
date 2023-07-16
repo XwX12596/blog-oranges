@@ -35,8 +35,6 @@ type: "about"
 
 - SAT
     - 堀与宫村 | Baha 24:00
-    - 其实我乃最强？ | CR 26:40
-    - 公司的小小前辈 | +2
     - 庙不可言 | Baha 24:00
 
 <!-- 下图来自[长门有C](https://www.bilibili.com/video/BV1j14y1U77P)。 -->
