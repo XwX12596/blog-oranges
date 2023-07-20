@@ -10,3 +10,7 @@ root * /home/xwx/blog-oranges/public
 encode zstd gzip
 file_server
 }
+
+www.xwxstudio.com:443 {
+redir https://xwxstudio.com
+}
