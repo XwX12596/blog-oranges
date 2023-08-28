@@ -17,18 +17,10 @@ wrong_pass_message: 抱歉, 这个密码看着不太对, 请再试试.
 wrong_hash_message: 抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.
 ---
 
-# MC 1.19.2 forge
-
-#### 模组列表:
-- twilightforest-1.19.2-0.4.11.44
-
-> ***Stopped***
-
-<!-- 
+# MC monitor
 
 <html>
-<script src="https://oss.xwxstudio.com/js/mycounter.js">
-</script>
+<script src="https://oss.xwxstudio.com/js/mycounter.js"></script>
 <p>
     Status: <b><span id = 'stat'>Requesting...</span></b>
     <br>
@@ -37,7 +29,14 @@ wrong_hash_message: 抱歉, 这个文章不能被校验, 不过您还是能看�
     List: <b><span id = 'names'>*</span></b>
 </p>
 </html>
--->
+
+# MC 1.19.2 forge
+
+#### 模组列表:
+- twilightforest-1.19.2-0.4.11.44
+
+> ***Stopped***
+
 
 # RLCraft
 >***已停运！***
