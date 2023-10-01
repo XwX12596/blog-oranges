@@ -1,13 +1,9 @@
-FROM node:latest
+FROM hexo:latest
 
-MAINTAINER XwX
+MAINTAINER name <mail>
 
 WORKDIR /hexo
 
-RUN npm install hexo-cli -g\
-&& hexo init .\
-&& npm install
-
 EXPOSE 4000
 
-CMD ["/bin/bash"]
+CMD ["/usr/bin/env","hexo","server"]
