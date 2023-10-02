@@ -4,8 +4,6 @@ date: 2022-09-01 10:30:00
 type: "about"
 ---
 
-## MC Monitor
-
 <html>
 <script src="/sakana/js/mycounter"></script>
 <script src="/sakana/js/sakana"></script>
@@ -22,8 +20,8 @@ type: "about"
     flex:1;
 }
 </style>
-
-<p>
+<h2 align=center>MC Monitor</h2>
+<p style="margin-left:50px">
     MOTD: <b><span id = 'motd'>*</span></b>
     <br>
     Status: <b><span id = 'stat'>Requesting...</span></b>
@@ -32,7 +30,8 @@ type: "about"
     <br>
     List: <b><span id = 'names'>*</span></b>
 </p>
-<br>
+
+<h2 align=center>SAKANA</h2>
 <div class="row">
     <div id="sakana-widget1" class="elem" style = "align:left"></div>
     <div class="elem"></div>
