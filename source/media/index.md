@@ -15,6 +15,13 @@ date: 2022-03-20 12:43:10
     "preload": "metadata",
     "music": [
         {
+            "title": "Wake Me up When September Ends",
+            "author": "Green Day",
+            "url": "https://oss.xwxstudio.com/songs/Wake Me up When September Ends.flac",
+            "lrc": "/media/assets/Wake Me up When September Ends.lrc",
+            "pic": "https://s2.loli.net/2022/09/01/mqF379tIbn1KdA8.jpg"
+        },
+        {
             "title": "風を食む",
             "author": "ヨルシカ",
             "url": "https://oss.xwxstudio.com/songs/風を食む.flac",
@@ -111,13 +118,6 @@ date: 2022-03-20 12:43:10
             "url": "https://oss.xwxstudio.com/songs/国际歌.flac",
             "lrc": "/media/assets/国际歌.lrc",
             "pic": "https://s2.loli.net/2022/09/01/EiPbWBzGHFX51yx.png"
-        },
-        {
-            "title": "Wake Me up When September Ends",
-            "author": "Green Day",
-            "url": "https://oss.xwxstudio.com/songs/Wake Me up When September Ends.flac",
-            "lrc": "/media/assets/Wake Me up When September Ends.lrc",
-            "pic": "https://s2.loli.net/2022/09/01/mqF379tIbn1KdA8.jpg"
         },
         {
             "title": "萤梦",
