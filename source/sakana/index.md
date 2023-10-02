@@ -5,7 +5,13 @@ type: "about"
 ---
 
 ## MC Monitor
+
 <html>
+<script src="/sakana/js/mycounter"></script>
+<script src="/sakana/js/sakana"></script>
+<script async onload="initSakanaWidget()"
+    src="https://cdn.jsdelivr.net/npm/sakana-widget@2.2.1/lib/sakana.min.js"></script>
+
 <style>
 .row{
     width:100%;
@@ -16,14 +22,15 @@ type: "about"
     flex:1;
 }
 </style>
+
 <p>
+    MOTD: <b><span id = 'motd'>*</span></b>
+    <br>
     Status: <b><span id = 'stat'>Requesting...</span></b>
     <br>
     Players: <b><span id = 'players'>*</span></b>
     <br>
     List: <b><span id = 'names'>*</span></b>
-    <br>
-    MOTD: <b><span id = 'motd'>*</span></b>
 </p>
 <br>
 <div class="row">
@@ -32,16 +39,5 @@ type: "about"
     <div id="sakana-widget2" class="elem" style = "align:right"></div>
 </div>
 
-<script>
-    function initSakanaWidget() {
-        const takina = SakanaWidget.getCharacter('takina');
-        SakanaWidget.registerCharacter('tkn', takina);
-        new SakanaWidget({character : 'tkn'}).mount('#sakana-widget1');
-        new SakanaWidget().mount('#sakana-widget2');
-    }
-</script>
-<script async onload="initSakanaWidget()"
-    src="https://cdn.jsdelivr.net/npm/sakana-widget@2.2.1/lib/sakana.min.js"></script>
 
-<script src="/sakana/js/mycounter.js"></script>
 </html>

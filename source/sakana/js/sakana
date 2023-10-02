@@ -1,0 +1,6 @@
+function initSakanaWidget() {
+    const takina = SakanaWidget.getCharacter('takina');
+    SakanaWidget.registerCharacter('tkn', takina);
+    new SakanaWidget({character : 'tkn'}).mount('#sakana-widget1');
+    new SakanaWidget().mount('#sakana-widget2');
+}
