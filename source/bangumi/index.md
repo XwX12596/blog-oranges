@@ -7,7 +7,6 @@ type: "about"
 # 2023 秋
 
 > 2023年秋季动画放送时间表（个人向
-> 规划中...
 
 - SUN
     * OVERTAKE | Baha 22:00 | K
