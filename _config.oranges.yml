@@ -110,11 +110,6 @@ navbar:
     path: /shuoshuo/
     key: hitokoto
   -
-    name: 🐟
-    enable: true
-    path: /sakana/
-    key: sakana
-  -
     name: 媒体
     enable: true
     path: /media/
@@ -124,6 +119,16 @@ navbar:
     enable: true
     path: /bangumi/
     key: bangumi
+  # -
+  #   name: 🐟
+  #   enable: true
+  #   path: /sakana/
+  #   key: sakana
+  -
+    name: 工具
+    enable: true
+    path: /sakana/
+    key: sakana
   -
     name: 链接
     enable: true
