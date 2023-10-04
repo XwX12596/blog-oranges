@@ -58,7 +58,9 @@ type: "about"
 
 
 
-下图来自[长门有C](https://www.bilibili.com/video/BV1vu411372v) ：
+<!-- 下图来自[长门有C](https://www.bilibili.com/video/BV1vu411372v) ： -->
+<!---->
+<!-- ![2023-09-30_13-07](https://s2.loli.net/2023/10/02/Xrb2MZfHqUkYmWa.png) -->
 
-![2023-09-30_13-07](https://s2.loli.net/2023/10/02/Xrb2MZfHqUkYmWa.png)
+完整版: [ 长门有C ](https://yuc.wiki/202310/)
 
