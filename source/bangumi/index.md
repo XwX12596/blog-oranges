@@ -13,6 +13,7 @@ type: "about"
     * **香格里拉边境** | Baha 17:00 | K
     * **超超超超喜欢你的100个女孩子** | 10/8 | K
     * **凹凸魔女的亲子日常** | Baha 22:00 | M
+    * **暴食狂战士** | Baha 23:00 | K
 
 - MON
     * **星灵感应** | 10/9 | P
@@ -23,9 +24,9 @@ type: "about"
     * **Paradox Live** | Baha 23:00 | K
 
 - WED
-    * **16bit的感动 Another Layer** | 10/4 | M
-    * **捡到被退婚大小姐的我教会她做坏坏的事** | 10/4 | S
-    * **BULLBUSTER** | 10/4 | M
+    * **16bit的感动 Another Layer** | 10/4/D | M
+    * **捡到被退婚大小姐的我教会她做坏坏的事** | Baha 22:00 | S
+    * **BULLBUSTER** | Baha 21:00 | M
 
 - THU
     * **放学后少年花子君** | 10/12 | T
