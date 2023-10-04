@@ -16,11 +16,11 @@ type: "about"
 
 - MON
     * **星灵感应** | 10/9 | P
-    * **米奇与达利** | 10/2 | N
+    * **米奇与达利** | Baha 23:00 | N
 
 - TUE
-    * **圣女魔力无所不能 第2期** | 10/3 | T
-    * **Paradox Live** | 10/3 | K
+    * **圣女魔力无所不能 第2期** | Baha 23:00 | T
+    * **Paradox Live** | Baha 23:00 | K
 
 - WED
     * **16bit的感动 Another Layer** | 10/4 | M
