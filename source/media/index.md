@@ -15,6 +15,13 @@ date: 2022-03-20 12:43:10
     "preload": "metadata",
     "music": [
         {
+            "title": "赴约四季",
+            "author": "泠鸢yousa",
+            "url": "https://oss.xwxstudio.com/songs/赴约四季.flac",
+            "lrc": "/media/assets/赴约四季.lrc",
+            "pic": "https://s2.loli.net/2023/10/06/oyEKpPQG1kWSF8B.jpg"
+        },
+        {
             "title": "Wake Me up When September Ends",
             "author": "Green Day",
             "url": "https://oss.xwxstudio.com/songs/Wake Me up When September Ends.flac",
