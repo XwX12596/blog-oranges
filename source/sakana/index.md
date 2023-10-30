@@ -31,6 +31,8 @@ type: "about"
     List: <b><span id = 'names'>*</span></b>
 </p>
 
+![DD's Server](https://mcapi.us/server/image?ip=101.43.71.234&title=DD%27s%20Server)
+
 <h2 align=center>SAKANA</h2>
 <div class="row">
     <div id="sakana-widget1" class="elem" style = "align:left"></div>
