@@ -20,5 +20,5 @@ var xmlhttp = new XMLHttpRequest();
             document.getElementById("motd").innerHTML = motd;
         }
     };
-    xmlhttp.open("GET", "https://mcapi.us/server/status?ip=101.43.71.234", true);
+    xmlhttp.open("GET", "https://mcapi.us/server/status?ip=mc.xwxstudio.com", true);
     xmlhttp.send();
