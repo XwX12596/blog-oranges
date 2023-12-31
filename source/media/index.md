@@ -15,6 +15,20 @@ date: 2022-03-20 12:43:10
     "preload": "metadata",
     "music": [
         {
+            "title": "二十二",
+            "author": "陶喆",
+            "url": "https://oss.xwxstudio.com/songs/二十二-陶喆.flac",
+            "lrc": "/media/assets/二十二.lrc",
+            "pic": "https://s2.loli.net/2024/01/01/cFbMqRj8TokKZ46.png"
+        },
+        {
+            "title": "蝴蝶",
+            "author": "陶喆",
+            "url": "https://oss.xwxstudio.com/songs/蝴蝶-陶喆.flac",
+            "lrc": "/media/assets/蝴蝶.lrc",
+            "pic": "https://s2.loli.net/2024/01/01/cFbMqRj8TokKZ46.png"
+        },
+        {
             "title": "赴约四季",
             "author": "泠鸢yousa",
             "url": "https://oss.xwxstudio.com/songs/赴约四季.flac",
