@@ -31,7 +31,7 @@ type: "about"
     List: <b><span id = 'names'>*</span></b>
 </p>
 
-![DD's Server](https://mcapi.us/server/image?ip=royenheart.com)
+![DD's Server](https://mcapi.us/server/image?ip=150.158.33.213)
 
 <h2 align=center>SAKANA</h2>
 <div class="row">
