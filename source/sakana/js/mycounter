@@ -15,9 +15,9 @@ var xmlhttp = new XMLHttpRequest();
                 }
             }
             document.getElementById("players").innerHTML = players;
-            //document.getElementById("stat").innerHTML =  stat;
+            document.getElementById("stat").innerHTML =  stat;
             document.getElementById("names").innerHTML = names;
-            //document.getElementById("motd").innerHTML = motd;
+            document.getElementById("motd").innerHTML = motd;
         }
     };
     xmlhttp.open("GET", "https://mcapi.us/server/status?ip=45.125.46.209:42472", true);
