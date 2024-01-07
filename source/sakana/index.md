@@ -27,9 +27,9 @@ type: "about"
     <!-- MOTD: <b><span id = 'motd'>*</span></b> -->
     <!-- <br> -->
     Status: <b><span id = 'stat'>Requesting...</span></b>
-    <!-- <br> -->
-    <!-- Players: <b><span id = 'players'>*</span></b> -->
     <br>
+    <!-- Players: <b><span id = 'players'>*</span></b> -->
+    <!-- <br> -->
     List: <b><span id = 'names'>*</span></b>
 </p>
 
