@@ -20,18 +20,18 @@ type: "about"
     flex:1;
 }
 </style>
-<!-- <h2 align=center>MC Monitor</h2> -->
-<!-- <p style="margin-left:50px"> -->
-<!--     MOTD: <b><span id = 'motd'>*</span></b> -->
-<!--     <br> -->
-<!--     Status: <b><span id = 'stat'>Requesting...</span></b> -->
-<!--     <br> -->
-<!--     Players: <b><span id = 'players'>*</span></b> -->
-<!--     <br> -->
-<!--     List: <b><span id = 'names'>*</span></b> -->
-<!-- </p> -->
-
-![DD's Server](https://mcapi.us/server/image?ip=45.125.46.209:42472&title=NatualCreate)
+<!-- ![DD's Server](https://mcapi.us/server/image?ip=45.125.46.209:42472&title=NatualCreate) -->
+<img src="https://mcapi.us/server/image?ip=45.125.46.209:42472&title=NatualCreate" alt="DD's Server" style="zoom:200%;" />
+<h2 align=center>MC Monitor</h2>
+<p style="margin-left:50px">
+    <!-- MOTD: <b><span id = 'motd'>*</span></b> -->
+    <!-- <br> -->
+    Status: <b><span id = 'stat'>Requesting...</span></b>
+    <!-- <br> -->
+    <!-- Players: <b><span id = 'players'>*</span></b> -->
+    <br>
+    List: <b><span id = 'names'>*</span></b>
+</p>
 
 <h2 align=center>SAKANA</h2>
 <div class="row">
