@@ -21,8 +21,8 @@ type: "about"
 }
 </style>
 <!-- ![DD's Server](https://mcapi.us/server/image?ip=45.125.46.209:42472&title=NatualCreate) -->
-<img src="https://mcapi.us/server/image?ip=45.125.46.209:42472&title=NatualCreate" alt="DD's Server" style="zoom:200%;" />
 <h2 align=center>MC Monitor</h2>
+<img src="https://mcapi.us/server/image?ip=45.125.46.209:42472&title=NatualCreate" alt="DD's Server" style="zoom:175%;" />
 <p style="margin-left:50px">
     <!-- MOTD: <b><span id = 'motd'>*</span></b> -->
     <!-- <br> -->
