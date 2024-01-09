@@ -20,5 +20,5 @@ var xmlhttp = new XMLHttpRequest();
             document.getElementById("motd").innerHTML = motd;
         }
     };
-    xmlhttp.open("GET", "https://mcapi.us/server/status?ip=45.125.46.209:42472", true);
+    xmlhttp.open("GET", "https://mcapi.us/server/status?ip=frp-jar.top:43999", true);
     xmlhttp.send();
