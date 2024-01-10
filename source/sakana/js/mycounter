@@ -6,7 +6,7 @@ var xmlhttp = new XMLHttpRequest();
             var stat = myObj.online?'online':'error';
             var now = myObj.players.now;
             var max = myObj.players.max;
-	    var motd = myObj.motd;
+	    // var motd = myObj.motd;
             var players = now + '/' + max
             for(var i = 0; i < now; i++){
                 names += myObj.players.sample[i].name
@@ -17,7 +17,7 @@ var xmlhttp = new XMLHttpRequest();
             document.getElementById("players").innerHTML = players;
             document.getElementById("stat").innerHTML =  stat;
             document.getElementById("names").innerHTML = names;
-            document.getElementById("motd").innerHTML = motd;
+            // document.getElementById("motd").innerHTML = motd;
         }
     };
     xmlhttp.open("GET", "https://mcapi.us/server/status?ip=frp-jar.top:43999", true);

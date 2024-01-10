@@ -22,9 +22,9 @@ type: "about"
 </style>
 <!-- ![DD's Server](https://mcapi.us/server/image?ip=45.125.46.209:42472&title=NatualCreate) -->
 <h2 align=center>MC Monitor</h2>
-<img src="https://mcapi.us/server/image?ip=frp-jar.top:43999&title=NatualCreate" alt="DD's Server" style="zoom:100%;" />
+<!-- <img src="https://mcapi.us/server/image?ip=frp-jar.top:43999&title=NatualCreate" alt="DD's Server" style="zoom:100%;" /> -->
 <p style="margin-left:50px">
-    MOTD: <b><span id = 'motd'>*</span></b>
+    MOTD: <b><span id = 'motd'>NaturalCreate</span></b>
     <br>
     Status: <b><span id = 'stat'>Requesting...</span></b>
     <br>
