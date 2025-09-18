@@ -210,7 +210,7 @@ footer:
     # 一般用来显示根据各种场景需要切换的文本，如时间年份
     # 如：{thisYear} 会被替换为今年年份
     -
-      name: 苏ICP备2022006233号
+      name: 苏ICP备2022xxxxxx号
       path: https://beian.miit.gov.cn/
     -
       name: Theme by Oranges | Powered by Hexo
@@ -218,25 +218,25 @@ footer:
 
   # 浏览量统计
   # http://busuanzi.ibruce.info/
-  views:
-    enable: true
-    provider: '//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js'
-    item:
-      -
-        enable: true
-        id: busuanzi_value_site_pv
-        name: 本站总访问量
-        unit: 次
-      -
-        enable: true
-        id: busuanzi_value_page_pv
-        name: 本文总阅读量
-        unit: 次
-      -
-        enable: true
-        id: busuanzi_value_site_uv
-        name: 本站访客数
-        unit: 人
+  # views:
+  #   enable: true
+  #   provider: '//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js'
+  #   item:
+  #     -
+  #       enable: true
+  #       id: busuanzi_value_site_pv
+  #       name: 本站总访问量
+  #       unit: 次
+  #     -
+  #       enable: true
+  #       id: busuanzi_value_page_pv
+  #       name: 本文总阅读量
+  #       unit: 次
+  #     -
+  #       enable: true
+  #       id: busuanzi_value_site_uv
+  #       name: 本站访客数
+  #       unit: 人
 
 # 文章搜索
 search:
