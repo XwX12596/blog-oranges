@@ -54,7 +54,7 @@ ssh-keygen -t rsa -C "myemail@example.com"
 个人主页>头像右边的小三角>Settings>SSH and GPG keys>New ssh key
 ```
 
-## 开始使用
+## 简单命令
 
 1. 添加远程仓库
 
@@ -98,3 +98,50 @@ git push <远程主机名> <本地分支名>(:<远程分支名>)
 VSCode
 ```
 
+## 上传代码
+
+### 方法一
+
+1. 初始化本地仓库
+
+``` bash
+git init
+```
+
+2. 加入本地代码
+
+``` bash
+git add --all
+git commit -m 'MESSAGE'
+git remote add origin git@github.com:username/reponame.git
+git push origin master （小心github的默认分支是main，如果你用master可以上传并删除main）
+```
+
+3. 分支管理
+
+``` 
+VSCode
+```
+
+### 方法二
+
+1. 克隆仓库
+
+``` bash
+git clone git@github.com:username/reponame.git
+```
+
+2. 加入本地代码
+
+``` bash
+cp ALL_YOUR_CODE/* THIS_REPO/
+git add --all
+git commit -m 'MESSAGE'
+git push origin master （小心github的默认分支是main，如果你用master可以上传并删除main）
+```
+
+3. 分支管理
+
+``` 
+VSCode
+```
