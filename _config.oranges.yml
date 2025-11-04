@@ -116,7 +116,7 @@ navbar:
     key: media
   -
     name: 新番
-    enable: true
+    enable: false
     path: /bangumi/
     key: bangumi
   # -
@@ -161,18 +161,18 @@ friends:
     nickname: Zcheng
     site: https://hexo.theme.oranges.zcheng.site/
     meta: 'The theme.'
-  -
-    nickname: qiankanshan
-    site: https://qiankanshan.com/
-    meta: 'Future Musician.'
-  -
-    nickname: zhijiao
-    site: http://zhijiao-blog.com/
-    meta: 'shark.'
-  -
-    nickname: mdnd
-    site: https://mdnd.top/
-    meta: 'mdnd.'
+  # -
+  #   nickname: qiankanshan
+  #   site: https://qiankanshan.com/
+  #   meta: 'Future Musician.'
+  # -
+  #   nickname: zhijiao
+  #   site: http://zhijiao-blog.com/
+  #   meta: 'shark.'
+  # -
+  #   nickname: mdnd
+  #   site: https://mdnd.top/
+  #   meta: 'mdnd.'
 
 # 页脚信息
 footer:
@@ -189,7 +189,7 @@ footer:
     -
       name: email
       icon: envelope
-      path: mailto:1259685860@qq.com
+      path: mailto:xumh2001@gmail.com
     # -
     #   name: twitter
     #   icon: twitter

@@ -5,7 +5,7 @@ type: "about"
 ---
 
 <html>
-<script src="/sakana/js/mycounter"></script>
+<!-- <script src="/sakana/js/mycounter"></script> -->
 <script src="/sakana/js/sakana"></script>
 <script async onload="initSakanaWidget()"
     src="https://cdn.jsdelivr.net/npm/sakana-widget@2.2.1/lib/sakana.min.js"></script>
@@ -24,9 +24,9 @@ type: "about"
 <h2 align=center>MC Monitor</h2>
 <!-- <img src="https://mcapi.us/server/image?ip=frp-jar.top:43999&title=NatualCreate" alt="DD's Server" style="zoom:100%;" /> -->
 <p style="margin-left:50px">
-    MOTD: <b><span id = 'motd'>NaturalCreate</span></b>
+    MOTD: <b><span id = 'motd'>Null</span></b>
     <br>
-    Status: <b><span id = 'stat'>Requesting...</span></b>
+    Status: <b><span id = 'stat'>Null</span></b>
     <br>
     Players: <b><span id = 'players'>*</span></b>
     <br>

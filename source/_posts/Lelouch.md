@@ -2,6 +2,12 @@
 title: All Hail Lelouch!
 date: 2023-11-01 00:11:46
 tags:
+password: Hh2001
+abstract: 密码？
+message: 密码？
+theme: default
+wrong_pass_message: 抱歉, 这个密码看着不太对, 请再试试.
+wrong_hash_message: 抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.
 ---
 
 - ~**被强加的善意，与恶意无二！**~
