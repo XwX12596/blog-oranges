@@ -165,10 +165,10 @@ friends:
   #   nickname: qiankanshan
   #   site: https://qiankanshan.com/
   #   meta: 'Future Musician.'
-  # -
-  #   nickname: zhijiao
-  #   site: http://zhijiao-blog.com/
-  #   meta: 'shark.'
+  -
+    nickname: zhijiao
+    site: http://zhi-jiao.github.io/
+    meta: 'shark.'
   # -
   #   nickname: mdnd
   #   site: https://mdnd.top/

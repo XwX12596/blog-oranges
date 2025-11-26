@@ -11,37 +11,89 @@ tags:
 主要来自`vcb`社区的推荐配置。
 
 ```
-script-opts=ytdl_hook-ytdl_path=yt-dlp
-script-opts-append=ytdl_hook-ytdl_path=yt-dlp
+script-opts=ytdl_hook-ytdl_path=/usr/bin/yt-dlp
 
-gpu-context=d3d11
+vo=gpu
+gpu-context=waylandvk
+gpu-api=vulkan
 hwdec=nvdec-copy
-d3d11-adapter="NVIDIA GeForce RTX 2050"
-idle=yes
-#border=no
+idle
+pause
+# vulkan-device='NVIDIA GeForce RTX 2050'
+# vulkan-device='Intel(R) Graphics (ADL GT2)'
 
+# ao=pipewire
 alang=jpn,zh,chs,zh-Hans
 audio-file-auto=exact
 volume-max=100
-#audio-pitch-correction=no
+audio-pitch-correction
 
 osd-on-seek=msg-bar
-osd-font="FZZhunYuan-M02"
+osd-font="HYZhengYuan-55S"
 osd-font-size=40
 osd-playing-msg="${filename}"
 
-profile=gpu-hq
-icc-profile-auto=yes
+# profile=gpu-hq
+# icc-profile-auto
+profile=high-quality
 blend-subtitles=video
+deband
 scale=ewa_lanczossharp
+cscale=catmull_rom
 video-sync=display-resample
-interpolation=yes
+interpolation
 tscale=oversample
-#video-aspect=1.9
+#autofit-larger=50%
+# window-scale=0.667
+# autofit=1920
+# autofit-smaller=50%x50%
+# video-aspect=1.9
 
 slang=chs,sc,zh,chi,zho,zh-Hans
 sub-auto=fuzzy
-sub-scale=0.8
-sub-font="FZZhunYuan-M02"
+sub-font="HYZhengYuan-55S"
+# sub-scale=0.8
+# sub-font="FZZhunYuan-M02"
+
+glsl-shaders="~~/shaders/FSR.glsl"
+
+[intel]
+vo=gpu
+gpu-context=wayland
+gpu-api=opengl
+vaapi-device='Intel(R) Graphics (ADL GT2)'
+hwdec=vaapi-copy
+glsl-shaders="~~/shaders/FSR.glsl"
+# scale=lanczos
+
+# mpv-handler profile
+[danmaku]
+pause=no
+loop=inf
+profile=bili-v
+vf=lavfi="fps=fps=60:round=down"
+referrer="https://www.bilibili.com/"
+script="/home/xwx/.config/mpv/scripts/bilibiliAssert/main.lua"
+
+[bili-live]
+# msg-level=all=v
+# autofit=960
+pause=no
+referrer='https://live.bilibili.com'
+script-opts-append=osc-visibility=never
+ytdl-raw-options=format=best[vcodec!=hevc]
+ytdl-raw-options-append=cookies-from-browser=chrome
+# ytdl-raw-options-append=external-downloader=aria2c
+# ytdl-raw-options-append=downloader-args='aria2c:"-x 8 -k 1M"'
+
+[bili-v]
+# msg-level=all=v
+# autofit=960
+pause=no
+referrer='https://www.bilibili.com'
+script-opts-append=osc-visibility=never
+ytdl-raw-options-append="cookies-from-browser=chrome"
+ytdl-raw-options-append="external-downloader=aria2c"
+ytdl-raw-options-append="downloader-args=aria2c:'-x 8 -k 1M'"
 
 ```
