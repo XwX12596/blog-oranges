@@ -6,6 +6,13 @@ date: 2022-03-20 12:43:10
 
 # 业余卫星SSTV
 
+## UmKA-1 (RS40S)
+
+![2025-11-30_10:37.jpg](https://s2.loli.net/2025/11/30/ht1isSOf6lZvBAn.jpg)
+![2025-11-30_10:39.jpg](https://s2.loli.net/2025/11/30/kKvTQdxNVh9qaB7.jpg)
+![2025-11-30_10:41.jpg](https://s2.loli.net/2025/11/30/xDVPl1gmRQhuqIE.jpg)
+![2025-11-30_10:43.jpg](https://s2.loli.net/2025/11/30/hqHwIKeM7yxdS4p.jpg)
+
 ## ArcticSat-1 (RS74S)
 
 ![2025-10-18_22:03.jpg](https://s2.loli.net/2025/11/04/ikwCDpKbOntHscQ.jpg)
