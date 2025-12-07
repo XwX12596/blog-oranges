@@ -20,6 +20,8 @@ date: 2022-03-20 12:43:10
 
 ![2025-11-30_10:43.jpg](https://s2.loli.net/2025/11/30/hqHwIKeM7yxdS4p.jpg)
 
+![2025-12-07_09:44.jpg](https://s2.loli.net/2025/12/07/xpObZMrXA8WJLN2.jpg)
+
 ## ArcticSat-1 (RS74S)
 
 ![2025-10-18_22:03.jpg](https://s2.loli.net/2025/11/04/ikwCDpKbOntHscQ.jpg)
