@@ -8,6 +8,10 @@ date: 2022-03-20 12:43:10
 
 ## RS38S
 
+![2025-12-07_22:37.jpg](https://s2.loli.net/2025/12/08/TNh3tPW4kvLJfdZ.jpg)
+
+![2025-12-07_22:34.jpg](https://s2.loli.net/2025/12/08/rTEqO1kFGf4JQ6K.jpg)
+
 ![2025-12-06_10:57.jpg](https://s2.loli.net/2025/12/06/cAKV3fOS5i1suCB.jpg)
 
 ## UmKA-1 (RS40S)
