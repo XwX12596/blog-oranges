@@ -7,6 +7,9 @@ date: 2022-03-20 12:43:10
 # 业余卫星SSTV
 
 ## RS38S
+![2025-12-09_11.13.jpg](https://s2.loli.net/2025/12/09/2SZ9dQOm86hAcbs.jpg)
+
+![2025-12-09_11:11.jpg](https://s2.loli.net/2025/12/09/BlCLdtpi74Naoz1.jpg)
 
 ![2025-12-07_22:37.jpg](https://s2.loli.net/2025/12/08/TNh3tPW4kvLJfdZ.jpg)
 
