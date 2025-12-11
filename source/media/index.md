@@ -7,35 +7,39 @@ date: 2022-03-20 12:43:10
 # 业余卫星SSTV
 
 ## RS38S
+![2025-12-11_22.24.png](https://s2.loli.net/2025/12/11/zTglJNabYEs6ovX.png)
+
+![2025-12-11_22.22.png](https://s2.loli.net/2025/12/11/Qut94DpwgVHaMjk.png)
+
 ![2025-12-09_11.13.jpg](https://s2.loli.net/2025/12/09/2SZ9dQOm86hAcbs.jpg)
 
-![2025-12-09_11:11.jpg](https://s2.loli.net/2025/12/09/BlCLdtpi74Naoz1.jpg)
+![2025-12-09_11.11.jpg](https://s2.loli.net/2025/12/09/BlCLdtpi74Naoz1.jpg)
 
-![2025-12-07_22:37.jpg](https://s2.loli.net/2025/12/08/TNh3tPW4kvLJfdZ.jpg)
+![2025-12-07_22.37.jpg](https://s2.loli.net/2025/12/08/TNh3tPW4kvLJfdZ.jpg)
 
-![2025-12-07_22:34.jpg](https://s2.loli.net/2025/12/08/rTEqO1kFGf4JQ6K.jpg)
+![2025-12-07_22.34.jpg](https://s2.loli.net/2025/12/08/rTEqO1kFGf4JQ6K.jpg)
 
-![2025-12-06_10:57.jpg](https://s2.loli.net/2025/12/06/cAKV3fOS5i1suCB.jpg)
+![2025-12-06_10.57.jpg](https://s2.loli.net/2025/12/06/cAKV3fOS5i1suCB.jpg)
 
 ## UmKA-1 (RS40S)
 
-![2025-11-30_10:43.jpg](https://s2.loli.net/2025/11/30/hqHwIKeM7yxdS4p.jpg)
+![2025-11-30_10.43.jpg](https://s2.loli.net/2025/11/30/hqHwIKeM7yxdS4p.jpg)
 
-![2025-11-30_10:41.jpg](https://s2.loli.net/2025/11/30/xDVPl1gmRQhuqIE.jpg)
+![2025-11-30_10.41.jpg](https://s2.loli.net/2025/11/30/xDVPl1gmRQhuqIE.jpg)
 
-![2025-11-30_10:39.jpg](https://s2.loli.net/2025/11/30/kKvTQdxNVh9qaB7.jpg)
+![2025-11-30_10.39.jpg](https://s2.loli.net/2025/11/30/kKvTQdxNVh9qaB7.jpg)
 
-![2025-11-30_10:37.jpg](https://s2.loli.net/2025/11/30/ht1isSOf6lZvBAn.jpg)
+![2025-11-30_10.37.jpg](https://s2.loli.net/2025/11/30/ht1isSOf6lZvBAn.jpg)
 
 ## ArcticSat-1 (RS74S)
 
-![2025-12-07_09:44.jpg](https://s2.loli.net/2025/12/07/xpObZMrXA8WJLN2.jpg)
+![2025-12-07_09.44.jpg](https://s2.loli.net/2025/12/07/xpObZMrXA8WJLN2.jpg)
 
-![2025-12-05_22:34.jpg](https://s2.loli.net/2025/12/06/bFLufMRkH3plz9i.jpg)
+![2025-12-05_22.34.jpg](https://s2.loli.net/2025/12/06/bFLufMRkH3plz9i.jpg)
 
-![2025-11-04_09:37.jpg](https://s2.loli.net/2025/11/04/DkpMd6cyvoEqIjQ.jpg)
+![2025-11-04_09.37.jpg](https://s2.loli.net/2025/11/04/DkpMd6cyvoEqIjQ.jpg)
 
-![2025-10-18_22:03.jpg](https://s2.loli.net/2025/11/04/ikwCDpKbOntHscQ.jpg)
+![2025-10-18_22.03.jpg](https://s2.loli.net/2025/11/04/ikwCDpKbOntHscQ.jpg)
 
 # 随手记
 
