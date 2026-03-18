@@ -1,5 +1,5 @@
 ---
-title: 网线很细但我很粗————Hanser一专！
+title: 网线很细————Hanser一专！
 date: 2022-09-08 00:14:39
 tags:
     - note
